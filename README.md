@@ -4,7 +4,7 @@
 I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence of mathematics and technology. I have pursued an Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, with a stellar academic record, achieving the highest CGPA of 8.78. My research spans complex realms including machine learning and blockchain technology, aiming to apply this knowledge towards tangible technological advancements.
 
 
-## 🏆 **Achievements **
+## 🏆 **Achievements**
 
 - **Emotion Recognition System Patent**  
   ![Patent](https://img.shields.io/badge/Patent-Emotion_Recognition_System-yellow?style=flat-square&logo=Google-Scholar)  
