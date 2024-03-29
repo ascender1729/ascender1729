@@ -4,10 +4,31 @@
 I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence of mathematics and technology. I have pursued an Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, with a stellar academic record, achieving the highest CGPA of 8.78. My research spans complex realms including machine learning and blockchain technology, aiming to apply this knowledge towards tangible technological advancements.
 
 ## 🏅 Achievements
-- Developed a machine learning model to improve healthcare insurance fraud detection accuracy to 89%.
-- Played a pivotal role in developing an algorithm that increased the accuracy of detecting counterfeit luxury goods by 15%.
-- Authored "A Study on Facial Feature Extraction and Emotional Analysis Using ML" in IJARESM.
-- Published a patent application titled "Emotion Recognition and Analysis System for Mental Health Assessment".
+
+<p align="center">
+  <a href="https://example-link-to-project-or-achievement">
+    <img src="https://img.shields.io/badge/Achievement-Healthcare_Fraud_Detection_89%25-success?style=for-the-badge&logo=TensorFlow" alt="Healthcare Fraud Detection 89%">
+  </a>
+  
+  <a href="https://example-link-to-project-or-achievement">
+    <img src="https://img.shields.io/badge/Achievement-Counterfeit_Detection_Improvement_15%25-blue?style=for-the-badge&logo=Python" alt="Counterfeit Detection Improvement 15%">
+  </a>
+  
+  <a href="https://example-link-to-your-publication">
+    <img src="https://img.shields.io/badge/Publication-Facial_Feature_Extraction-orange?style=for-the-badge&logo=Academic" alt="Facial Feature Extraction Publication">
+  </a>
+  
+  <a href="https://example-link-to-patent">
+    <img src="https://img.shields.io/badge/Patent-Emotion_Recognition_System-red?style=for-the-badge&logo=Google-Scholar" alt="Emotion Recognition System Patent">
+  </a>
+</p>
+
+- **Machine Learning Model**: Improved healthcare insurance fraud detection accuracy to **89%**.
+- **Algorithm Development**: Increased accuracy of detecting counterfeit luxury goods by **15%**.
+- **Research Publication**: Authored "_A Study on Facial Feature Extraction and Emotional Analysis Using ML_" in IJARESM.
+- **Patent**: Published a patent application titled "_Emotion Recognition and Analysis System for Mental Health Assessment_".
+
+
 
 ## 🛠 Skills
 
