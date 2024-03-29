@@ -3,33 +3,32 @@
 ## 🎓 About Me
 I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence of mathematics and technology. I have pursued an Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, with a stellar academic record, achieving the highest CGPA of 8.78. My research spans complex realms including machine learning and blockchain technology, aiming to apply this knowledge towards tangible technological advancements.
 
-## 🏆 **Achievements**
 
-### Machine Learning and Blockchain in Healthcare Fraud Detection
-- **89% Accuracy in Healthcare Insurance Fraud Detection**: Spearheaded the creation of a ML model that significantly improved fraud detection rates, enhancing security and trust in digital healthcare .
-  - ![ML/AI](https://img.shields.io/badge/ML%2FAI-89%25_Accuracy-ff69b4?style=flat-square&logo=tensorflow)
-  
-- **Innovative Solution Using ECC and Blockchain**: Collaborated on integrating Elliptic Curve Cryptography with blockchain, boosting system reliability by 40%, showcasing interdisciplinary prowess .
-  - ![Blockchain](https://img.shields.io/badge/Blockchain-ECC_Enhancement-blue?style=flat-square&logo=blockchain.com)
+## 🏆 **Achievements & Skills**
 
-### Contributions to Emotional Analysis and Machine Learning Research
-- **Published a Patent on Emotion Recognition**: Published a patent titled "Emotion Recognition and Analysis System for Mental Health Assessment", contributing to mental health technology advancements【16†source】.
-  - ![Patent](https://img.shields.io/badge/Patent-Emotion_Recognition_System-yellow?style=flat-square&logo=Google-Scholar)
+- **Healthcare Fraud Detection**  
+  ![ML/AI](https://img.shields.io/badge/ML%2FAI-89%25_Accuracy-ff69b4?style=flat-square&logo=tensorflow)  
+  Led the development of a machine learning model, achieving an 89% accuracy rate in detecting healthcare insurance fraud, leveraging Python, Pandas, NumPy, and Scikit-learn.
 
-- **Authored and Contributed to ML Research**: Co-authored "A Study on Facial Feature Extraction and Emotional Analysis Using ML", enriching the ML community's understanding of emotional analysis【16†source】 .
-  - ![Research](https://img.shields.io/badge/Research-Published_Work-orange?style=flat-square&logo=ResearchGate)
+- **Blockchain Integration for Security**  
+  ![Blockchain](https://img.shields.io/badge/Blockchain-ECC_Enhancement-blue?style=flat-square&logo=blockchain.com)  
+  Enhanced system trust and reliability by 40% through ECC encryption and blockchain technology collaboration.
 
-### Competitive Coding and Academia
-- **Exceptional Performer in Competitive Coding**: Achieved All India Rank 45 in GeeksforGeeks Job-a-thon and AIR 105 in CodeKaze Sep-2023, alongside securing college rank 1, demonstrating exceptional coding prowess【16†source】.
-  - ![Competitive Coding](https://img.shields.io/badge/Competitive_Coding-Top_Ranks-9cf?style=flat-square&logo=codesandbox)
+- **Emotion Recognition System Patent**  
+  ![Patent](https://img.shields.io/badge/Patent-Emotion_Recognition_System-yellow?style=flat-square&logo=Google-Scholar)  
+  Innovated and published a patent application focused on emotion recognition for mental health assessment.
 
-- **High Academic Achiever**: Maintained the highest CGPA in the IMSc. Mathematics department, reflecting dedication and academic excellence【16†source】.
-  - ![Academic Excellence](https://img.shields.io/badge/Academic_Excellence-Highest_CGPA-green?style=flat-square&logo=Academia)
+- **Research Publication**  
+  ![Research](https://img.shields.io/badge/Research-Published_Work-orange?style=flat-square&logo=ResearchGate)  
+  Contributed to "A Study on Facial Feature Extraction and Emotional Analysis Using ML", enriching academic discourse on machine learning and emotional analysis.
 
-### Technical Skills and Certification
-- **Certified in Cloud and Blockchain**: Earned certifications in AWS Cloud Practitioner and participated in FDP on Blockchain Technology & Applications, underscoring continuous learning and skill enhancement【16†source】.
-  - ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazonaws)
-  - ![Blockchain Certification](https://img.shields.io/badge/Blockchain-Certification-9cf?style=flat-square&logo=blockchain.com)
+- **Competitive Coding Excellence**  
+  ![Competitive Coding](https://img.shields.io/badge/Competitive_Coding-Top_Ranks-9cf?style=flat-square&logo=codesandbox)  
+  Achieved notable rankings in competitive coding events, including All India Rank 45 in GeeksforGeeks Job-a-thon.
+
+- **Certifications & Continuous Learning**  
+  ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazonaws)  
+  Certified Cloud Practitioner by AWS, showcasing ongoing commitment to learning and professional growth in cloud technology and blockchain.
 
 ## 🛠 Skills
 
