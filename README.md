@@ -10,9 +10,15 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 - Published a patent application titled "Emotion Recognition and Analysis System for Mental Health Assessment".
 
 ## 🛠 Skills
-- **Programming & Web**: Python, C++, JavaScript, React.js, Node.js, HTML, CSS, Tailwind CSS, MongoDB, Flask, TypeScript, Webpack, Tkinter.
-- **ML & Data Analysis**: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, TensorFlow, MobileNet, Dlib, OpenCV, Scikit-Image, PyTorch.
-- **Blockchain & Cryptography**: ECIES, Blockchain principles, ECC encryption, Hyperledger.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 
 ## 💼 Experience
 - **Research Intern**, National Institute of Technology Patna: Led the development of a machine learning model for healthcare insurance fraud detection.
