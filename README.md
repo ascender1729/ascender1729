@@ -1,7 +1,37 @@
 # Dubasi Pavan Kumar
 
-## 🎓 About Me
-I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence of mathematics and technology. I have pursued an Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, with a stellar academic record, achieving the highest CGPA of 8.78. My research spans complex realms including machine learning and blockchain technology, aiming to apply this knowledge towards tangible technological advancements.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ascender1729/ascender1729/main/assets/tech-animation.gif" width="600px" alt="Tech Animation" />
+</p>
+
+<h2 align="center">👋 Hi, I'm Dubasi Pavan Kumar!</h2>
+<p align="center">An aspiring researcher passionate about the confluence of mathematics and technology. I'm on a relentless quest to leverage these fields for technological advancements and societal good.</p>
+
+<p align="center">
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <!-- C++ Badge -->
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <!-- JavaScript Badge -->
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <!-- More badges -->
+</p>
+
+<h3 align="center">🚀 About Me</h3>
+<ul>
+  <li>🎓 Pursuing an <strong>Integrated Master of Science in Mathematics</strong> at the National Institute of Technology, Patna.</li>
+  <li>🔍 Focused on <strong>machine learning</strong> and <strong>blockchain technology</strong>.</li>
+  <li>💼 Experience as a <strong>Data Scientist Intern</strong> and <strong>Research Intern</strong>.</li>
+  <li>🌟 Passionate about <strong>ethical AI</strong> and <strong>cybersecurity</strong>.</li>
+</ul>
+
+<h3 align="center">🔗 Connect with Me</h3>
+<p align="center">
+  <a href="mailto:pavan.dubasi2024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/im-pavankumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ascender1729"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 
 ## 🏅 Achievements
 - Developed a machine learning model to improve healthcare insurance fraud detection accuracy to 89%.
