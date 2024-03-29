@@ -71,9 +71,6 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 ![PyAudio](https://img.shields.io/badge/-PyAudio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-For a more streamlined and creative approach to showcasing your experience without detailed descriptions next to each badge, let's use a minimalistic yet expressive format. We'll focus on concise, impactful statements enhanced by relevant badges:
-
 ## 💼 **Professional Highlights**
 
 ### 🚀 **Tech Innovator and Research Enthusiast**
