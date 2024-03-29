@@ -72,19 +72,20 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 
 
 
-## 💼 Professional Experience
+For a more streamlined and creative approach to showcasing your experience without detailed descriptions next to each badge, let's use a minimalistic yet expressive format. We'll focus on concise, impactful statements enhanced by relevant badges:
 
-### Research Intern, National Institute of Technology Patna
-| Badge | Description |
-| :---: | :--- |
-| ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Project-3776AB?style=flat-square&logo=TensorFlow&logoColor=white) | Led the development of a machine learning model to improve healthcare insurance fraud detection, demonstrating a strong ability in Python, Pandas, NumPy, and Scikit-learn. |
-| ![Blockchain](https://img.shields.io/badge/Blockchain-Technology-121D33?style=flat-square&logo=blockchain.com&logoColor=white) | Enhanced data security in healthcare insurance fraud detection through blockchain technology, contributing to a 30% reduction in false positives. |
+## 💼 **Professional Highlights**
 
-### Data Scientist Intern, Arvo, New Delhi
-| Badge | Description |
-| :---: | :--- |
-| ![Data Science](https://img.shields.io/badge/Data_Science-Algorithm-3776AB?style=flat-square&logo=Python&logoColor=white) | Spearheaded the development of algorithms for detecting counterfeit luxury goods using Python, OpenCV, and PyTorch, increasing detection accuracy by 15%. |
-| ![AI](https://img.shields.io/badge/AI-Research-F05032?style=flat-square&logo=Keras&logoColor=white) | Employed advanced AI techniques to analyze and interpret complex datasets, underscoring a commitment to leveraging AI for ethical business practices. |
+### 🚀 **Tech Innovator and Research Enthusiast**
+
+- Led a pivotal ML project at **NIT Patna** improving healthcare fraud detection. ![ML](https://img.shields.io/badge/-ML-3776AB?style=flat-square&logo=TensorFlow&logoColor=white)
+- Innovated with **blockchain** to secure healthcare data, reducing false positives. ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+
+### 💡 **Data Science Pathfinder**
+
+- Enhanced counterfeit detection accuracy by 15% at **Arvo**, New Delhi. ![Data Science](https://img.shields.io/badge/-Data_Science-3776AB?style=flat-square&logo=Python&logoColor=white)
+- Advanced ethical AI applications in business practices. ![AI](https://img.shields.io/badge/-AI-F05032?style=flat-square&logo=Keras&logoColor=white)
+
 
 ## 🌱 Interests
 - Machine learning, blockchain technology, cybersecurity, and ethical AI.
