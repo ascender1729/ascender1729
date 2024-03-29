@@ -3,32 +3,33 @@
 ## 🎓 About Me
 I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence of mathematics and technology. I have pursued an Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, with a stellar academic record, achieving the highest CGPA of 8.78. My research spans complex realms including machine learning and blockchain technology, aiming to apply this knowledge towards tangible technological advancements.
 
-## 🏅 Achievements
+## 🏆 **Achievements**
 
-<p align="center">
-  <a href="https://example-link-to-project-or-achievement">
-    <img src="https://img.shields.io/badge/Achievement-Healthcare_Fraud_Detection_89%25-success?style=for-the-badge&logo=TensorFlow" alt="Healthcare Fraud Detection 89%">
-  </a>
+### Machine Learning and Blockchain in Healthcare Fraud Detection
+- **89% Accuracy in Healthcare Insurance Fraud Detection**: Spearheaded the creation of a ML model that significantly improved fraud detection rates, enhancing security and trust in digital healthcare .
+  - ![ML/AI](https://img.shields.io/badge/ML%2FAI-89%25_Accuracy-ff69b4?style=flat-square&logo=tensorflow)
   
-  <a href="https://example-link-to-project-or-achievement">
-    <img src="https://img.shields.io/badge/Achievement-Counterfeit_Detection_Improvement_15%25-blue?style=for-the-badge&logo=Python" alt="Counterfeit Detection Improvement 15%">
-  </a>
-  
-  <a href="https://example-link-to-your-publication">
-    <img src="https://img.shields.io/badge/Publication-Facial_Feature_Extraction-orange?style=for-the-badge&logo=Academic" alt="Facial Feature Extraction Publication">
-  </a>
-  
-  <a href="https://example-link-to-patent">
-    <img src="https://img.shields.io/badge/Patent-Emotion_Recognition_System-red?style=for-the-badge&logo=Google-Scholar" alt="Emotion Recognition System Patent">
-  </a>
-</p>
+- **Innovative Solution Using ECC and Blockchain**: Collaborated on integrating Elliptic Curve Cryptography with blockchain, boosting system reliability by 40%, showcasing interdisciplinary prowess .
+  - ![Blockchain](https://img.shields.io/badge/Blockchain-ECC_Enhancement-blue?style=flat-square&logo=blockchain.com)
 
-- **Machine Learning Model**: Improved healthcare insurance fraud detection accuracy to **89%**.
-- **Algorithm Development**: Increased accuracy of detecting counterfeit luxury goods by **15%**.
-- **Research Publication**: Authored "_A Study on Facial Feature Extraction and Emotional Analysis Using ML_" in IJARESM.
-- **Patent**: Published a patent application titled "_Emotion Recognition and Analysis System for Mental Health Assessment_".
+### Contributions to Emotional Analysis and Machine Learning Research
+- **Published a Patent on Emotion Recognition**: Published a patent titled "Emotion Recognition and Analysis System for Mental Health Assessment", contributing to mental health technology advancements【16†source】.
+  - ![Patent](https://img.shields.io/badge/Patent-Emotion_Recognition_System-yellow?style=flat-square&logo=Google-Scholar)
 
+- **Authored and Contributed to ML Research**: Co-authored "A Study on Facial Feature Extraction and Emotional Analysis Using ML", enriching the ML community's understanding of emotional analysis【16†source】 .
+  - ![Research](https://img.shields.io/badge/Research-Published_Work-orange?style=flat-square&logo=ResearchGate)
 
+### Competitive Coding and Academia
+- **Exceptional Performer in Competitive Coding**: Achieved All India Rank 45 in GeeksforGeeks Job-a-thon and AIR 105 in CodeKaze Sep-2023, alongside securing college rank 1, demonstrating exceptional coding prowess【16†source】.
+  - ![Competitive Coding](https://img.shields.io/badge/Competitive_Coding-Top_Ranks-9cf?style=flat-square&logo=codesandbox)
+
+- **High Academic Achiever**: Maintained the highest CGPA in the IMSc. Mathematics department, reflecting dedication and academic excellence【16†source】.
+  - ![Academic Excellence](https://img.shields.io/badge/Academic_Excellence-Highest_CGPA-green?style=flat-square&logo=Academia)
+
+### Technical Skills and Certification
+- **Certified in Cloud and Blockchain**: Earned certifications in AWS Cloud Practitioner and participated in FDP on Blockchain Technology & Applications, underscoring continuous learning and skill enhancement【16†source】.
+  - ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazonaws)
+  - ![Blockchain Certification](https://img.shields.io/badge/Blockchain-Certification-9cf?style=flat-square&logo=blockchain.com)
 
 ## 🛠 Skills
 
