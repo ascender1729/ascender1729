@@ -79,10 +79,11 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 ## 🌱 Interests
 - Machine learning, blockchain technology, cybersecurity, and ethical AI.
 
+Great, let's update the "Reach Out to Me" section with your specific Medium, Twitter, and personal website links. This personalized touch will make it easier for visitors to connect with you on these platforms:
 
 ## 📬 **Reach Out to Me**
 
-Feel free to connect, collaborate, or just say hi! I'm always open to discussing new projects and ideas.
+I'm always open to interesting conversations and collaborations. Let's connect!
 
 <p align="center">
   <!-- Email -->
@@ -100,21 +101,22 @@ Feel free to connect, collaborate, or just say hi! I'm always open to discussing
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
-  <!-- Twitter (If applicable) -->
-  <a href="https://twitter.com/yourTwitterHandle">
+  <!-- Twitter -->
+  <a href="https://twitter.com/the_complex_one">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   
-  <!-- Medium (If applicable) -->
-  <a href="https://medium.com/@yourMediumHandle">
+  <!-- Medium -->
+  <a href="https://medium.com/@ascender1729">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   
-  <!-- Personal Website (If applicable) -->
-  <a href="https://yourwebsite.com">
+  <!-- Personal Website -->
+  <a href="https://pavankumardubasi.com">
     <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
 </p>
+
 
 ## 🤝 Contributions
 I'm open to collaborations on projects involving machine learning, blockchain, or any innovative technology aimed at societal betterment.
