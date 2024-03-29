@@ -79,10 +79,42 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 ## 🌱 Interests
 - Machine learning, blockchain technology, cybersecurity, and ethical AI.
 
-## 📫 How to reach me
-- **Email**: pavan.dubasi2024@gmail.com
-- **LinkedIn**: [linkedin.com/in/im-pavankumar](https://linkedin.com/in/im-pavankumar)
-- **GitHub**: [github.com/ascender1729](https://github.com/ascender1729)
+
+## 📬 **Reach Out to Me**
+
+Feel free to connect, collaborate, or just say hi! I'm always open to discussing new projects and ideas.
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:pavan.dubasi2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/im-pavankumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/ascender1729">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+  <!-- Twitter (If applicable) -->
+  <a href="https://twitter.com/yourTwitterHandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  
+  <!-- Medium (If applicable) -->
+  <a href="https://medium.com/@yourMediumHandle">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  
+  <!-- Personal Website (If applicable) -->
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 ## 🤝 Contributions
 I'm open to collaborations on projects involving machine learning, blockchain, or any innovative technology aimed at societal betterment.
