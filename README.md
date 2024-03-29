@@ -72,15 +72,19 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 
 
 
-## 💼 **Professional Experience**
+## 💼 Professional Experience
 
 ### Research Intern, National Institute of Technology Patna
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Project-3776AB?style=flat-square&logo=TensorFlow&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-Technology-121D33?style=flat-square&logo=blockchain.com&logoColor=white)  
-Developed a machine learning model to enhance healthcare insurance fraud detection, integrating Python and blockchain technology for data security. Achieved a 30% reduction in false positives.
+| Badge | Description |
+| :---: | :--- |
+| ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Project-3776AB?style=flat-square&logo=TensorFlow&logoColor=white) | Led the development of a machine learning model to improve healthcare insurance fraud detection, demonstrating a strong ability in Python, Pandas, NumPy, and Scikit-learn. |
+| ![Blockchain](https://img.shields.io/badge/Blockchain-Technology-121D33?style=flat-square&logo=blockchain.com&logoColor=white) | Enhanced data security in healthcare insurance fraud detection through blockchain technology, contributing to a 30% reduction in false positives. |
 
 ### Data Scientist Intern, Arvo, New Delhi
-![Data Science](https://img.shields.io/badge/Data_Science-Algorithm-3776AB?style=flat-square&logo=Python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Research-F05032?style=flat-square&logo=Keras&logoColor=white)  
-Led algorithm development for detecting counterfeit luxury goods, employing Python, OpenCV, and PyTorch, improving detection accuracy by 15%.
+| Badge | Description |
+| :---: | :--- |
+| ![Data Science](https://img.shields.io/badge/Data_Science-Algorithm-3776AB?style=flat-square&logo=Python&logoColor=white) | Spearheaded the development of algorithms for detecting counterfeit luxury goods using Python, OpenCV, and PyTorch, increasing detection accuracy by 15%. |
+| ![AI](https://img.shields.io/badge/AI-Research-F05032?style=flat-square&logo=Keras&logoColor=white) | Employed advanced AI techniques to analyze and interpret complex datasets, underscoring a commitment to leveraging AI for ethical business practices. |
 
 ## 🌱 Interests
 - Machine learning, blockchain technology, cybersecurity, and ethical AI.
