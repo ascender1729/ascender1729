@@ -72,19 +72,15 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 
 
 
-## 💼 Experience
-- **Research Intern**, National Institute of Technology Patna: Led the development of a machine learning model for healthcare insurance fraud detection.
-- **Data Scientist Intern**, Arvo, New Delhi: Engaged in a project for detecting counterfeit luxury goods.
+## 💼 **Professional Experience**
 
-## 📚 Education
-- **Integrated Master of Science in Mathematics**, National Institute of Technology Patna, GPA: 8.78.
+### Research Intern, National Institute of Technology Patna
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Project-3776AB?style=flat-square&logo=TensorFlow&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-Technology-121D33?style=flat-square&logo=blockchain.com&logoColor=white)  
+Developed a machine learning model to enhance healthcare insurance fraud detection, integrating Python and blockchain technology for data security. Achieved a 30% reduction in false positives.
 
-## 📈 Projects
-- **Clear Speak**: Developed a Python application for real-time accurate audio transcription using Google Cloud Speech-to-Text API.
-- **Predicting Ethereum Transaction Confirmation Time using Machine Learning**: Established an ML estimator with an accuracy of 80.5%.
-
-## 📃 Publications
-- "A Study on Facial Feature Extraction and Emotional Analysis Using ML", International Journal of All Research Education and Scientific Methods (IJARESM).
+### Data Scientist Intern, Arvo, New Delhi
+![Data Science](https://img.shields.io/badge/Data_Science-Algorithm-3776AB?style=flat-square&logo=Python&logoColor=white) ![AI](https://img.shields.io/badge/AI-Research-F05032?style=flat-square&logo=Keras&logoColor=white)  
+Led algorithm development for detecting counterfeit luxury goods, employing Python, OpenCV, and PyTorch, improving detection accuracy by 15%.
 
 ## 🌱 Interests
 - Machine learning, blockchain technology, cybersecurity, and ethical AI.
