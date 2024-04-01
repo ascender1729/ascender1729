@@ -79,7 +79,6 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 ## 🌱 Interests
 - Machine learning, blockchain technology, cybersecurity, and ethical AI.
 
-Great, let's update the "Reach Out to Me" section with your specific Medium, Twitter, and personal website links. This personalized touch will make it easier for visitors to connect with you on these platforms:
 
 ## 📬 **Reach Out to Me**
 
