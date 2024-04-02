@@ -8,20 +8,20 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 
 - **Emotion Recognition System Patent**  
   ![Patent](https://img.shields.io/badge/Patent-Emotion_Recognition_System-yellow?style=flat-square&logo=Google-Scholar)  
-  Innovated and published a patent application focused on emotion recognition for mental health assessment.
+  Innovated and published a patent application for an "Emotion Recognition System" aimed at mental health assessment.
 
 - **Research Publication**  
   ![Research](https://img.shields.io/badge/Research-Published_Work-orange?style=flat-square&logo=ResearchGate)  
-  Contributed to "A Study on Facial Feature Extraction and Emotional Analysis Using ML", enriching academic discourse on machine learning and emotional analysis.
+  Authored "A Study on Facial Feature Extraction and Emotional Analysis Using ML", contributing to machine learning and emotional analysis discourse.
 
 - **Competitive Coding Excellence**  
   ![Competitive Coding](https://img.shields.io/badge/Competitive_Coding-Top_Ranks-9cf?style=flat-square&logo=codesandbox)  
-  Achieved notable rankings in competitive coding events, including All India Rank 45 in GeeksforGeeks Job-a-thon.
+  Achieved All India Rank 45 in GeeksforGeeks Job-a-thon; Expert rank at Codeforces with a rating of 1663; Knight rank at LeetCode with a rating of 1875.
 
 - **Certifications & Continuous Learning**  
   ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazonaws)  
-  Certified Cloud Practitioner by AWS, showcasing ongoing commitment to learning and professional growth in cloud technology and blockchain.
-
+  AWS Certified Cloud Practitioner; Full Stack Web Development with NodeJS from Coding Blocks; Blockchain Technology & Applications from EICT NITP; Six Sigma Green Belt Specialization from Coursera.
+  
 ## 🛠 Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,21 +63,8 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 ![PyAudio](https://img.shields.io/badge/-PyAudio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-## 💼 **Professional Highlights**
-
-### 🚀 **Tech Innovator and Research Enthusiast**
-
-- Led a pivotal ML project at **NIT Patna** improving healthcare fraud detection. ![ML](https://img.shields.io/badge/-ML-3776AB?style=flat-square&logo=TensorFlow&logoColor=white)
-- Innovated with **blockchain** to secure healthcare data, reducing false positives. ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-
-### 💡 **Data Science Pathfinder**
-
-- Enhanced counterfeit detection accuracy by 15% at **Arvo**, New Delhi. ![Data Science](https://img.shields.io/badge/-Data_Science-3776AB?style=flat-square&logo=Python&logoColor=white)
-- Advanced ethical AI applications in business practices. ![AI](https://img.shields.io/badge/-AI-F05032?style=flat-square&logo=Keras&logoColor=white)
-
-
 ## 🌱 Interests
-- Machine learning, blockchain technology, cybersecurity, and ethical AI.
+- Machine learning, NLP, CV, blockchain technology, and ethical AI.
 
 
 ## 📬 **Reach Out to Me**
