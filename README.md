@@ -61,7 +61,7 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Speech-to-Text API](https://img.shields.io/badge/-Speech_to_Text_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PyAudio](https://img.shields.io/badge/-PyAudio-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyDub](https://img.shields.io/badge/-PyAudio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyDub](https://img.shields.io/badge/-PyDub-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🌱 Interests
 - Machine learning, NLP, CV, blockchain technology, and ethical AI.
