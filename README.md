@@ -1,26 +1,39 @@
 # Dubasi Pavan Kumar
 
 ## 🎓 About Me
-I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence of mathematics and technology. I have pursued an Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, with a stellar academic record, achieving the highest CGPA of 8.78. My research spans complex realms including machine learning and blockchain technology, aiming to apply this knowledge towards tangible technological advancements.
+I'm Dubasi Pavan Kumar, an aspiring researcher with a profound interest in the interplay between mathematics and cutting-edge technology. I completed my Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, achieving an impressive CGPA of 8.89. My research explores intricate fields such as machine learning and blockchain technology, with the goal of harnessing these disciplines to drive practical innovations and solutions.
 
 
 ## 🏆 **Achievements**
 
-- **Emotion Recognition System Patent**  
-  ![Patent](https://img.shields.io/badge/Patent-Emotion_Recognition_System-yellow?style=flat-square&logo=Google-Scholar)  
-  Innovated and published a patent application for an "Emotion Recognition System" aimed at mental health assessment.
-
-- **Research Publication**  
-  ![Research](https://img.shields.io/badge/Research-Published_Work-orange?style=flat-square&logo=ResearchGate)  
-  Authored "A Study on Facial Feature Extraction and Emotional Analysis Using ML", contributing to machine learning and emotional analysis discourse.
+- **NPTEL Stars - NPTEL Believers**  
+  Awarded for outstanding performance in online courses, recognizing commitment and expertise in academic endeavors.
 
 - **Competitive Coding Excellence**  
   ![Competitive Coding](https://img.shields.io/badge/Competitive_Coding-Top_Ranks-9cf?style=flat-square&logo=codesandbox)  
-  Achieved All India Rank 45 in GeeksforGeeks Job-a-thon; Expert rank at Codeforces with a rating of 1663; Knight rank at LeetCode with a rating of 1875.
+  Achieved All India Rank 45 in the GeeksforGeeks Job-a-thon event, September 2023.  
+  Secured AIR 105 in CodeKaze Sep-2023 among 100,000+ contestants, and achieved college rank 1.  
+  Attained the rank of Expert at Codeforces platform (username: drastic) with a noteworthy rating of 1663.  
+  Achieved the rank of Knight at LeetCode platform (username: ascender1729) with a significant rating of 1875.
 
 - **Certifications & Continuous Learning**  
   ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazonaws)  
   AWS Certified Cloud Practitioner; Full Stack Web Development with NodeJS from Coding Blocks; Blockchain Technology & Applications from EICT NITP; Six Sigma Green Belt Specialization from Coursera.
+
+## 📜 **Patents**
+- **AI-Enabled Robotic Device for Business Automation**  
+  UK Design Registration No. 6335588, Grant Date: 10 January 2024.
+
+- **Emotion Recognition and Analysis System for Mental Health Assessment**  
+  The Patent Office Journal, 29/09/2023, No. 39/2023, pp. 64318-64802.
+
+## 📚 **Research Publications**
+- **Artistic Style Transfer using Generative Adversarial Networks: A Pix2Pix Implementation**  
+  To be published at the 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE).
+
+- **A Study on Facial Feature Extraction and Emotional Analysis Using ML**  
+  Published in the International Journal of All Research Education and Scientific Methods (IJARESM), ISSN: 2455-6211, Vol. 11, Issue 7, July 2023, pp. 2455-2467.
+
   
 ## 🛠 Skills
 
@@ -62,9 +75,21 @@ I'm Dubasi Pavan Kumar, an aspiring researcher passionate about the confluence o
 ![Speech-to-Text API](https://img.shields.io/badge/-Speech_to_Text_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PyAudio](https://img.shields.io/badge/-PyAudio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyDub](https://img.shields.io/badge/-PyDub-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Pix2Pix GAN](https://img.shields.io/badge/-Pix2Pix_GAN-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Convolutional Neural Networks](https://img.shields.io/badge/-CNNs-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/-Transfer_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Long Short-Term Memory Networks](https://img.shields.io/badge/-LSTMs-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/-Decision_Trees-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Ensemble Methods](https://img.shields.io/badge/-Ensemble_Methods-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Autoencoders](https://img.shields.io/badge/-Autoencoders-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Optical Character Recognition](https://img.shields.io/badge/-OCR-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🌱 Interests
-- Machine learning, NLP, CV, blockchain technology, and ethical AI.
+Machine learning, NLP, CV, blockchain technology, ethical AI, climate-resilient systems.
+
 
 
 ## 📬 **Reach Out to Me**
