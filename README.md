@@ -13,8 +13,8 @@ I'm Dubasi Pavan Kumar, an aspiring researcher with a profound interest in the i
   ![Competitive Coding](https://img.shields.io/badge/Competitive_Coding-Top_Ranks-9cf?style=flat-square&logo=codesandbox)  
   Achieved All India Rank 45 in the GeeksforGeeks Job-a-thon event, September 2023.  
   Secured AIR 105 in CodeKaze Sep-2023 among 100,000+ contestants, and achieved college rank 1.  
-  Attained the rank of Expert at Codeforces platform (username: drastic) with a noteworthy rating of 1663.  
-  Achieved the rank of Knight at LeetCode platform (username: ascender1729) with a significant rating of 1875.
+  Attained the rank of Expert at Codeforces platform with a noteworthy rating of 1663.  
+  Achieved the rank of Knight at LeetCode platform with a significant rating of 1875.
 
 - **Certifications & Continuous Learning**  
   ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazonaws)  
