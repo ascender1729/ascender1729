@@ -1,20 +1,15 @@
 # Dubasi Pavan Kumar
 
-<div align="center">
+# Welcome to My GitHub Profile!
 
-# Hello, I'm Ascender1729! 👋
+## 📈 GitHub Stats
 
-### 📈 My GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=vue)
 
-Joined GitHub {{ ACCOUNT_AGE }} years ago.  
-Since then, I've pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, and received {{ STARS }} stars across {{ REPOSITORIES }} personal projects.  
-Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
+## 💻 Most Used Languages
 
-### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascender1729&layout=compact&theme=vue)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ascender1729&layout=compact&theme=vue)
-
-</div>
 
 
 
