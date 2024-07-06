@@ -1,9 +1,7 @@
 import os
 import logging
 from dotenv import load_dotenv
-from src.github_stats import GitHubStats
-from src.readme_updater import ReadmeUpdater
-from src.exceptions import GitHubStatsError
+from src import GitHubStats, ReadmeUpdater, GitHubStatsError
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
