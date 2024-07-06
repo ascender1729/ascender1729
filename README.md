@@ -4,7 +4,9 @@
 
 I'm Dubasi Pavan Kumar, an aspiring researcher with a profound interest in the interplay between mathematics and cutting-edge technology. I completed my Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, achieving an impressive CGPA of 8.89/10. My research explores intricate fields such as machine learning and blockchain technology, with the goal of harnessing these disciplines to drive practical innovations and solutions.
 
-<!-- GITHUB_STATS -->
+
+Joined GitHub 4 years ago. Since then, I've pushed 195 commits, opened 0 issues, submitted 0 pull requests, and received 27 stars across 12 personal projects. Contributed to 1 public repositories.
+
 
 
 
@@ -145,7 +147,9 @@ I'm Dubasi Pavan Kumar, an aspiring researcher with a profound interest in the i
 
 Here are my current GitHub stats:
 
-<!-- GITHUB_STATS -->
+
+Joined GitHub 4 years ago. Since then, I've pushed 195 commits, opened 0 issues, submitted 0 pull requests, and received 27 stars across 12 personal projects. Contributed to 1 public repositories.
+
 
 My GitHub activity reflects my commitment to open-source development and collaborative coding.
 
