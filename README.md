@@ -1,5 +1,6 @@
 # Dubasi Pavan Kumar
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ascender1729.ascender1729)
+![GitHub stars](https://img.shields.io/github/stars/ascender1729?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ascender1729?style=social)
 
 
 ## 🎓 About Me
