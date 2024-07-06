@@ -3,7 +3,7 @@ name: Update Profile README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 30 minutes
+    - cron: '*/5 * * * *'  # This will run every 30 minutes
 
 jobs:
   update-readme:
@@ -13,17 +13,18 @@ jobs:
     
     - name: Update README
       run: |
-        # Example command to replace placeholders
-        sed -i "s/{{ COMMITS }}/$(gh api repos/ascender1729/ascender1729 --jq '.pushed_at')/g" README.md
-        # Add similar commands for other placeholders
+        # Example: Simulate fetching data and updating the README
+        sed -i "s/{{ ACCOUNT_AGE }}/12/g" README.md
+        sed -i "s/{{ COMMITS }}/1500/g" README.md
+        sed -i "s/{{ ISSUES }}/45/g" README.md
+        sed -i "s/{{ PULL_REQUESTS }}/30/g" README.md
+        sed -i "s/{{ STARS }}/78/g" README.md
+        sed -i "s/{{ REPOSITORIES }}/20/g" README.md
+        sed -i "s/{{ REPOSITORIES_CONTRIBUTED_TO }}/5/g" README.md
 
-    - name: Commit and Push if changes
+    - name: Commit changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Updated README with the latest stats"
-          git push
+        git commit -am "Update README.md" || echo "No changes to commit"
+        git push
