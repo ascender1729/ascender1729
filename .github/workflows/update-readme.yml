@@ -2,10 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
-  push:
-    branches:
-      - main  # Change this if your default branch is named differently
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
 
 jobs:
   update-readme:
