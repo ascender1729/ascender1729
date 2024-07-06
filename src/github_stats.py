@@ -19,7 +19,12 @@ class GitHubStats:
             prs = sum(repo.get_pulls().totalCount for repo in repos if not repo.fork)
             stars = sum(repo.stargazers_count for repo in repos if not repo.fork)
             personal_repos = len([repo for repo in repos if not repo.fork])
-            contributed_repos = len(set(pr.base.repo.full_name for pr in user.get_public_events() if pr.type == 'PullRequestEvent'))
+            
+            # Count unique repositories contributed to
+            contributed_repos = set()
+            for event in user.get_public_events():
+                if event.type == 'PullRequestEvent':
+                    contributed_repos.add(event.repo.name)
             
             return {
                 'ACCOUNT_AGE': account_age,
@@ -28,7 +33,7 @@ class GitHubStats:
                 'PULL_REQUESTS': prs,
                 'STARS': stars,
                 'REPOSITORIES': personal_repos,
-                'REPOSITORIES_CONTRIBUTED_TO': contributed_repos
+                'REPOSITORIES_CONTRIBUTED_TO': len(contributed_repos)
             }
         except GithubException as e:
             raise APIError(f"Error fetching GitHub stats: {str(e)}") from e
