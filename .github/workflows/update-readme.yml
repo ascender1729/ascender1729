@@ -1,20 +1,25 @@
 name: Update Profile README
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '*/5 * * * *'  # This will run every 5 minutes, the minimum interval
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3  # Updated to the latest version
-    - name: Update README.md
+    - uses: actions/checkout@v2
+    - name: Update README
+      run: python update_readme.py
+    - name: Commit and Push if changes
       run: |
-        # Add your script or command here to update README.md
-        # Example: echo "Update your README here" > README.md
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
         git add README.md
-        git commit -m "Automatically update README with latest stats"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes to the output on this push."
+        else
+          git commit -m "Update README with latest stats"
+          git push
+        fi
