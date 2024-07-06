@@ -1,12 +1,18 @@
 # Dubasi Pavan Kumar
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ascender1729.ascender1729)
+<div align="center">
 
+# Hello, I'm [Your GitHub Username]! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/ascender1729?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ascender1729?style=social)
+### 📈 My GitHub Statistics
 
+Joined GitHub 12 years ago.  
+Since then, I've pushed over 10,521 commits, opened 650 issues, submitted 510 pull requests, received 48 stars across 119 personal projects, and contributed to 10 public repositories.
 
-![WakaTime](https://wakatime.com/badge/user/ascender1729.svg)
+### 💻 Most Used Languages
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ascender1729&layout=compact&theme=vue)
+
+</div>
 
 
 
