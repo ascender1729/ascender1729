@@ -3,23 +3,38 @@ name: Update Profile README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'  # This will run every 5 minutes, the minimum interval
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Update README
-      run: python update_readme.py
-    - name: Commit and Push if changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        if git diff --staged --quiet; then
-          echo "No changes to the output on this push."
-        else
-          git commit -m "Update README with latest stats"
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: Generate Stats
+        id: readme-stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_OS: True
+          SHOW_PROJECTS: True
+      
+      - name: Update README
+        run: |
+          sed -i "s/{{ ACCOUNT_AGE }}/${{ steps.readme-stats.outputs.years }} years/g" README.md
+          sed -i "s/{{ COMMITS }}/${{ steps.readme-stats.outputs.total_commits }}/g" README.md
+          sed -i "s/{{ ISSUES }}/${{ steps.readme-stats.outputs.total_issues }}/g" README.md
+          sed -i "s/{{ PULL_REQUESTS }}/${{ steps.readme-stats.outputs.total_prs }}/g" README.md
+          sed -i "s/{{ STARS }}/${{ steps.readme-stats.outputs.total_stars }}/g" README.md
+          sed -i "s/{{ REPOSITORIES }}/${{ steps.readme-stats.outputs.repos_contributed_to }}/g" README.md
+          sed -i "s/{{ REPOSITORIES_CONTRIBUTED_TO }}/${{ steps.readme-stats.outputs.repos_contributed_to }}/g" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Updated README with the latest stats" || echo "No changes to commit"
           git push
-        fi
