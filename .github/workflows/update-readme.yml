@@ -8,18 +8,13 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1.2
-      with:
-        token: ${{ secrets.USER_TOKEN }}
-        includeForks: true
+    - uses: actions/checkout@v3  # Updated to the latest version
     - name: Update README.md
       run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add README.md
-          git commit -m "Automatically update README with latest stats"
-          git push
-        fi
+        # Add your script or command here to update README.md
+        # Example: echo "Update your README here" > README.md
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add README.md
+        git commit -m "Automatically update README with latest stats"
+        git push
