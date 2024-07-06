@@ -6,7 +6,7 @@
 
 ### 📈 My GitHub Statistics
 
-Joined GitHub {{ ACCOUNT_AGE }}.  
+Joined GitHub {{ ACCOUNT_AGE }} years ago.  
 Since then, I've pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, and received {{ STARS }} stars across {{ REPOSITORIES }} personal projects.  
 Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
 
@@ -15,6 +15,8 @@ Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ascender1729&layout=compact&theme=vue)
 
 </div>
+
+
 
 
 
