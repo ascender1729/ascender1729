@@ -1,6 +1,5 @@
 # Dubasi Pavan Kumar
 ![GitHub stars](https://img.shields.io/github/stars/ascender1729?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ascender1729?style=social)
 
 
 ## 🎓 About Me
