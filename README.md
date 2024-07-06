@@ -1,12 +1,14 @@
 # Dubasi Pavan Kumar
+
 <div align="center">
 
-# Hello, I'm [Your GitHub Username]! 👋
+# Hello, I'm Ascender1729! 👋
 
 ### 📈 My GitHub Statistics
 
-Joined GitHub 12 years ago.  
-Since then, I've pushed over 10,521 commits, opened 650 issues, submitted 510 pull requests, received 48 stars across 119 personal projects, and contributed to 10 public repositories.
+Joined GitHub {{ ACCOUNT_AGE }} years ago.  
+Since then, I've pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, and received {{ STARS }} stars across {{ REPOSITORIES }} personal projects.  
+Contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
 
 ### 💻 Most Used Languages
 
