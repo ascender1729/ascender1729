@@ -11,6 +11,13 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        includeForks: true
+        readme: ./README.md
+    
     - name: Update README
       run: |
         # Example: Simulate fetching data and updating the README
