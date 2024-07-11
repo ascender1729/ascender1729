@@ -141,3 +141,8 @@ I'm always open to interesting conversations and collaborations. Let's connect!
 ## 🤝 Contributions
 I'm open to collaborations on projects involving machine learning, blockchain, or any innovative technology aimed at societal betterment.
 
+
+
+<!-- GITHUB_STATS_START -->
+Joined GitHub 4 years ago. Since then, I've pushed 214 commits, opened 0 issues, submitted 0 pull requests, and received 27 stars across 14 personal projects. Contributed to 1 public repositories.
+<!-- GITHUB_STATS_END -->
