@@ -6,9 +6,6 @@ I'm Dubasi Pavan Kumar, an aspiring researcher with a profound interest in the i
 
 
 
-Joined GitHub 4 years ago. Since then, I've pushed 200 commits, opened 0 issues, submitted 0 pull requests, and received 28 stars across 13 personal projects. Contributed to 1 public repositories.
-
-
 
 
 
