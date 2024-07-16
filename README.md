@@ -129,7 +129,7 @@ I'm always open to interesting conversations and collaborations. Let's connect!
   </a>
   
   <!-- Personal Website -->
-  <a href="https://pavankumardubasi.com">
+  <a href="https://ascender1729.github.io/pavan-kumar-portfolio/">
     <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
 </p>
