@@ -119,7 +119,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://img.icons8.com/?size=96&id=55494&format=png&color=000000" width="60" alt="Patent"/>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/License.gif?raw=true" width="80" alt="Patent"/>
       <h3>Intellectual Property</h3>
       <table width="100%">
         <tr>
@@ -133,7 +133,7 @@
       </table>
     </td>
     <td width="50%" align="center">
-      <img src="https://img.icons8.com/?size=96&id=WPaKEC0L628Y&format=png&color=000000" width="60" alt="Research"/>
+      <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="80" alt="Research"/>
       <h3>Published Research</h3>
       <table width="100%">
         <tr>
@@ -171,7 +171,7 @@
       <h4>Development</h4>
     </td>
     <td align="center" width="20%">
-      <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="70" alt="Cloud"/>
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/designer.gif" width="70" alt="Cloud"/>
       <h4>Cloud & DevOps</h4>
     </td>
     <td align="center" width="20%">
@@ -347,7 +347,6 @@
   <table width="100%">
     <tr>
       <td width="25%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="IEEE"/>
         <h3>IEEE</h3>
         <p>Member #98915358</p>
         <a href="https://www.ieee.org/">
@@ -355,7 +354,6 @@
         </a>
       </td>
       <td width="25%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="ACM"/>
         <h3>ACM</h3>
         <p>Member #8485149</p>
         <a href="https://www.acm.org/">
@@ -363,7 +361,6 @@
         </a>
       </td>
       <td width="25%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/238200620-398b49af-fa3c-4aed-a23b-22aeeda8815d.gif" width="80" alt="AMS"/>
         <h3>AMS</h3>
         <p>Member #PVDBXA</p>
         <a href="https://www.ams.org/">
@@ -371,7 +368,6 @@
         </a>
       </td>
       <td width="25%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="80" alt="IAENG"/>
         <h3>IAENG</h3>
         <p>Member #383517</p>
         <a href="https://www.iaeng.org/">
