@@ -133,7 +133,7 @@
       </table>
     </td>
     <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="80" alt="Research"/>
+      <img src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM5MzAzNjYsIm5iZiI6MTc0MzkzMDA2NiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA2VDA5MDEwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZTIzN2M3NmY3Y2NkZTI4YmVhODY3Yzc3Zjg2MDA0MjdlNTYzM2E3Mjk0NTZhMmJkZDkxYzY0ZGFiZDYyYzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ULLlWsvMMsQOfkvldx6ufXCVfg1Az_eLdm19a20-2kk" width="80" alt="Research"/>
       <h3>Published Research</h3>
       <table width="100%">
         <tr>
