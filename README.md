@@ -1,14 +1,14 @@
-# <div align="center">👋 Welcome to My Research Hub</div>
+# <div align="center">🎮 Welcome to My Tech Universe</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=ML+Researcher;Blockchain+Architect;AI+Innovator;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ascender1729/ascender1729/main/assets/pixel-art-research.gif" alt="Research Pixel Art" width="400"/>
+  <img src="https://raw.githubusercontent.com/ascender1729/ascender1729/main/assets/tech-universe.gif" alt="Tech Universe" width="600"/>
 </div>
 
-## 🔬 Research Focus
+## 🎯 Research Focus
 
 My work revolves around the intersection of machine learning and blockchain technology, with a particular emphasis on:
 
@@ -17,51 +17,28 @@ My work revolves around the intersection of machine learning and blockchain tech
 - **Privacy-Preserving ML**: Implementing federated learning for secure data collaboration
 - **Blockchain Security**: Working with ECIES and Hyperledger for robust cryptographic solutions
 
-## 🚀 Recent Breakthroughs
-
-### Healthcare Fraud Detection System
-- Achieved 99.93% accuracy in fraud detection using ensemble ML models
-- Implemented ECIES cryptographic protocols with 99.9% data security
-- Developed real-time analytical platform using Flask and blockchain
-
-### Generative AI Research
-- Published work on Artistic Style Transfer using GANs (IC3SE-2024)
-- Developed Pix2Pix implementation for creative applications
-- Working on advanced GAN architectures for synthetic data generation
-
-### Blockchain Innovations
-- UK Design Patent: AI-Enabled Robotic Device for Business Automation
-- Indian Patent: Emotion Recognition System for Mental Health Assessment
-- Implemented Hyperledger-based secure data exchange protocols
-
-## 💻 Tech Stack & Tools
+## 🚀 Tech Stack & Skills
 
 <div align="center">
-  <h3>Core Technologies</h3>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger" />
+  <h3>🌟 Core Technologies</h3>
+  <img src="https://raw.githubusercontent.com/ascender1729/ascender1729/main/assets/tech-stack.gif" alt="Tech Stack Visualization" width="800"/>
   
-  <h3>Research Tools</h3>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <h3>🎮 Research Tools</h3>
+  <img src="https://raw.githubusercontent.com/ascender1729/ascender1729/main/assets/research-tools.gif" alt="Research Tools" width="600"/>
 </div>
 
-## 📚 Publications
+## 📊 GitHub Stats
 
-### Conference Papers
-- **IC3SE-2025**: Federated Learning for Privacy Preserving Collaboration in Healthcare
-- **IC3SE-2024**: Artistic Style Transfer using Generative Adversarial Networks
-- **IJARESM**: Facial Feature Extraction and Emotional Analysis Using ML
-
-### Patents
-- **UK Design Patent**: AI-Enabled Robotic Device for Business Automation
-- **Indian Patent**: Emotion Recognition and Analysis System for Mental Health Assessment
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=radical" alt="GitHub Streak" />
+</div>
 
 ## 🎮 Projects & Research
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ascender1729/ascender1729/main/assets/projects-timeline.gif" alt="Projects Timeline" width="800"/>
+</div>
 
 ### QuantumWaste
 - Quantum-inspired molecular recycling simulator
@@ -78,20 +55,25 @@ My work revolves around the intersection of machine learning and blockchain tech
 - Ensemble learning with 99.93% accuracy
 - Real-time fraud analysis platform
 
-## 📊 GitHub Stats
+## 📚 Publications & Patents
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=radical" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/ascender1729/ascender1729/main/assets/publications-infographic.gif" alt="Publications Infographic" width="600"/>
 </div>
+
+### Conference Papers
+- **IC3SE-2025**: Federated Learning for Privacy Preserving Collaboration in Healthcare
+- **IC3SE-2024**: Artistic Style Transfer using Generative Adversarial Networks
+- **IJARESM**: Facial Feature Extraction and Emotional Analysis Using ML
+
+### Patents
+- **UK Design Patent**: AI-Enabled Robotic Device for Business Automation
+- **Indian Patent**: Emotion Recognition and Analysis System for Mental Health Assessment
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Stars-9cf?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL Stars" />
-  <img src="https://img.shields.io/badge/Codeforces-Expert-9cf?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  <img src="https://img.shields.io/badge/LeetCode-Knight-9cf?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Top_45-9cf?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  <img src="https://raw.githubusercontent.com/ascender1729/ascender1729/main/assets/achievements-badges.gif" alt="Achievements Badges" width="600"/>
 </div>
 
 ## 🤝 Connect & Collaborate
