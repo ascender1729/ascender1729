@@ -14,23 +14,44 @@ Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues,
   <img src="https://img.shields.io/badge/⚔️_LeetCode_Knight-1875?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </div>
 
-## 💼 **Experience Highlights**
+## 💼 **Experience**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_Founder-VibeTensor-2F3134?style=for-the-badge&logo=startup&logoColor=white" alt="Founder"/>
-  <img src="https://img.shields.io/badge/💡_Senior_Associate-Innodata-2F3134?style=for-the-badge&logo=innodata&logoColor=white" alt="Innodata"/>
-  <img src="https://img.shields.io/badge/🔬_Research_Intern-NIT_Patna-2F3134?style=for-the-badge&logo=nit&logoColor=white" alt="NIT Patna"/>
+  <!-- Current Role -->
+  <a href="https://vibetensor.com">
+    <img src="https://img.shields.io/badge/🚀_Founder_&_CEO-VibeTensor-2F3134?style=for-the-badge&logo=startup&logoColor=white" alt="Founder"/>
+  </a>
+  <img src="https://img.shields.io/badge/📈_50+_Profiles_Analyzed-2F3134?style=for-the-badge&logo=analytics&logoColor=white" alt="Profiles"/>
+  <img src="https://img.shields.io/badge/🎯_100%_Hackathon_Success-2F3134?style=for-the-badge&logo=hackathon&logoColor=white" alt="Hackathon"/>
+  
+  <!-- Previous Roles -->
+  <a href="https://innodata.com">
+    <img src="https://img.shields.io/badge/💡_Senior_Associate-Innodata-2F3134?style=for-the-badge&logo=innodata&logoColor=white" alt="Innodata"/>
+  </a>
+  <img src="https://img.shields.io/badge/⚡_300%_Productivity_Boost-2F3134?style=for-the-badge&logo=productivity&logoColor=white" alt="Productivity"/>
+  <img src="https://img.shields.io/badge/🎯_98%_Data_Precision-2F3134?style=for-the-badge&logo=precision&logoColor=white" alt="Precision"/>
+  
+  <!-- Research Experience -->
+  <a href="https://nitp.ac.in">
+    <img src="https://img.shields.io/badge/🔬_Research_Intern-NIT_Patna-2F3134?style=for-the-badge&logo=nit&logoColor=white" alt="NIT Patna"/>
+  </a>
+  <img src="https://img.shields.io/badge/🛡️_99.93%_Fraud_Detection-2F3134?style=for-the-badge&logo=security&logoColor=white" alt="Fraud Detection"/>
+  <img src="https://img.shields.io/badge/🔒_99.9%_Data_Security-2F3134?style=for-the-badge&logo=security&logoColor=white" alt="Security"/>
+  
+  <!-- Additional Experience -->
+  <a href="https://arvo.one">
+    <img src="https://img.shields.io/badge/🤖_Data_Scientist-Arvo-2F3134?style=for-the-badge&logo=datascience&logoColor=white" alt="Arvo"/>
+  </a>
+  <img src="https://img.shields.io/badge/📊_15%_Accuracy_Boost-2F3134?style=for-the-badge&logo=accuracy&logoColor=white" alt="Accuracy"/>
+  <img src="https://img.shields.io/badge/📈_200%_Dataset_Growth-2F3134?style=for-the-badge&logo=dataset&logoColor=white" alt="Dataset"/>
+  
+  <!-- Eut Hub Experience -->
+  <a href="https://euthub.com">
+    <img src="https://img.shields.io/badge/💻_SDE_Intern-Eut_Hub-2F3134?style=for-the-badge&logo=developer&logoColor=white" alt="Eut Hub"/>
+  </a>
+  <img src="https://img.shields.io/badge/🔄_100+_Node.js_Utils-2F3134?style=for-the-badge&logo=nodejs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/🤖_20%_AI_Accuracy-2F3134?style=for-the-badge&logo=ai&logoColor=white" alt="AI"/>
 </div>
-
-- **VibeTensor** | Founder (2025-Present)
-  - Enhanced 50+ student profiles with ML-driven analytics
-  - Developed technical roadmaps for hackathon success
-- **Innodata** | Senior Associate (2024)
-  - Built AI-powered VQA systems (300% productivity boost)
-  - Achieved 98% data precision with automated workflows
-- **NIT Patna** | Research Intern (2023-2024)
-  - Created ML-blockchain fraud detection (99.93% accuracy)
-  - Implemented ECIES protocols (99.9% security)
 
 ## 📚 **Research & IP**
 <div align="center">
