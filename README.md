@@ -8,60 +8,119 @@
   </div>
 </div>
 
-## 🎯 Quick Stats
-<div class="stats-container">
-  <div class="stat-card">
-    <span class="stat-number">4</span>
-    <span class="stat-label">Years on GitHub</span>
+## 📊 GitHub Activity Dashboard
+
+<div class="github-stats">
+  <div class="stats-row">
+    <div class="stat-card">
+      <div class="stat-icon">📅</div>
+      <div class="stat-content">
+        <span class="stat-number">4</span>
+        <span class="stat-label">Years on GitHub</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">💾</div>
+      <div class="stat-content">
+        <span class="stat-number">594</span>
+        <span class="stat-label">Total Commits</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">⭐</div>
+      <div class="stat-content">
+        <span class="stat-number">43</span>
+        <span class="stat-label">Stars Earned</span>
+      </div>
+    </div>
   </div>
-  <div class="stat-card">
-    <span class="stat-number">594</span>
-    <span class="stat-label">Commits</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">43</span>
-    <span class="stat-label">Stars</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">31</span>
-    <span class="stat-label">Projects</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">3</span>
-    <span class="stat-label">Public Repos</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">1</span>
-    <span class="stat-label">Issues</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">0</span>
-    <span class="stat-label">PRs</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-number">100%</span>
-    <span class="stat-label">Hackathon Success</span>
+  
+  <div class="stats-row">
+    <div class="stat-card">
+      <div class="stat-icon">📦</div>
+      <div class="stat-content">
+        <span class="stat-number">31</span>
+        <span class="stat-label">Projects</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">🌐</div>
+      <div class="stat-content">
+        <span class="stat-number">3</span>
+        <span class="stat-label">Public Repos</span>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">🎯</div>
+      <div class="stat-content">
+        <span class="stat-number">100%</span>
+        <span class="stat-label">Hackathon Success</span>
+      </div>
+    </div>
   </div>
 </div>
 
-## 🏆 **Key Achievements**
+## 🏆 Achievement Showcase
 
-<div class="achievements-grid">
-  <div class="achievement-card">
-    <img src="https://img.shields.io/badge/🏆_NPTEL_Star-FFD700?style=for-the-badge&logo=starship&logoColor=black" alt="NPTEL Star"/>
-    <p>Top performer in NPTEL courses</p>
+<div class="achievements-showcase">
+  <div class="achievement-category">
+    <h3>Academic Excellence</h3>
+    <div class="achievement-cards">
+      <div class="achievement-card">
+        <div class="achievement-icon">🏆</div>
+        <div class="achievement-content">
+          <span class="achievement-title">NPTEL Star</span>
+          <span class="achievement-desc">Top performer in NPTEL courses</span>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class="achievement-card">
-    <img src="https://img.shields.io/badge/🥇_CodeKaze_AIR_105-9cf?style=for-the-badge&logo=codewars&logoColor=black" alt="CodeKaze"/>
-    <p>All India Rank 105 in CodeKaze</p>
+
+  <div class="achievement-category">
+    <h3>Competitive Programming</h3>
+    <div class="achievement-cards">
+      <div class="achievement-card">
+        <div class="achievement-icon">🥇</div>
+        <div class="achievement-content">
+          <span class="achievement-title">CodeKaze AIR 105</span>
+          <span class="achievement-desc">All India Rank 105</span>
+        </div>
+      </div>
+      <div class="achievement-card">
+        <div class="achievement-icon">👨‍💻</div>
+        <div class="achievement-content">
+          <span class="achievement-title">Codeforces Expert</span>
+          <span class="achievement-desc">Expert level rating</span>
+        </div>
+      </div>
+      <div class="achievement-card">
+        <div class="achievement-icon">⚔️</div>
+        <div class="achievement-content">
+          <span class="achievement-title">LeetCode Knight</span>
+          <span class="achievement-desc">Knight rank achievement</span>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class="achievement-card">
-    <img src="https://img.shields.io/badge/👨‍💻_Codeforces_Expert-1663?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-    <p>Expert level on Codeforces</p>
-  </div>
-  <div class="achievement-card">
-    <img src="https://img.shields.io/badge/⚔️_LeetCode_Knight-1875?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-    <p>Knight rank on LeetCode</p>
+
+  <div class="achievement-category">
+    <h3>Research & Innovation</h3>
+    <div class="achievement-cards">
+      <div class="achievement-card">
+        <div class="achievement-icon">📜</div>
+        <div class="achievement-content">
+          <span class="achievement-title">2 Patents</span>
+          <span class="achievement-desc">AI & Emotion Recognition</span>
+        </div>
+      </div>
+      <div class="achievement-card">
+        <div class="achievement-icon">📚</div>
+        <div class="achievement-content">
+          <span class="achievement-title">2 Research Papers</span>
+          <span class="achievement-desc">Published in IC3SE & IJARESM</span>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -256,54 +315,119 @@
     margin: 1rem 0;
   }
 
-  .stats-container {
+  .github-stats {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 2rem 0;
+  }
+
+  .stats-row {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 1rem;
-    margin: 1rem 0;
   }
 
   .stat-card {
     background: linear-gradient(145deg, #2F3134, #1a1a1a);
-    border-radius: 10px;
-    padding: 1rem;
-    text-align: center;
-    transition: transform 0.3s ease;
+    border-radius: 15px;
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: all 0.3s ease;
   }
 
   .stat-card:hover {
     transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  }
+
+  .stat-icon {
+    font-size: 2rem;
+    background: rgba(255,255,255,0.1);
+    padding: 1rem;
+    border-radius: 12px;
+  }
+
+  .stat-content {
+    display: flex;
+    flex-direction: column;
   }
 
   .stat-number {
     font-size: 2rem;
     font-weight: bold;
     color: #fff;
+    line-height: 1;
   }
 
   .stat-label {
-    display: block;
     color: #aaa;
-    margin-top: 0.5rem;
+    font-size: 0.9rem;
   }
 
-  .achievements-grid {
+  .achievements-showcase {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 2rem 0;
+  }
+
+  .achievement-category {
+    background: rgba(47,49,52,0.3);
+    border-radius: 15px;
+    padding: 1.5rem;
+  }
+
+  .achievement-category h3 {
+    color: #fff;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+  }
+
+  .achievement-cards {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1rem;
-    margin: 1rem 0;
   }
 
   .achievement-card {
     background: linear-gradient(145deg, #2F3134, #1a1a1a);
-    border-radius: 10px;
+    border-radius: 12px;
     padding: 1rem;
-    text-align: center;
-    transition: transform 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: all 0.3s ease;
   }
 
   .achievement-card:hover {
     transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  }
+
+  .achievement-icon {
+    font-size: 1.5rem;
+    background: rgba(255,255,255,0.1);
+    padding: 0.8rem;
+    border-radius: 10px;
+  }
+
+  .achievement-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .achievement-title {
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+
+  .achievement-desc {
+    color: #aaa;
+    font-size: 0.9rem;
   }
 
   .experience-timeline {
@@ -421,18 +545,27 @@
     to { opacity: 1; transform: translateY(0); }
   }
 
-  .role-badges, .stats-container, .achievements-grid, .experience-timeline,
-  .research-grid, .tech-stack, .connect-grid, .opportunities-grid {
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+
+  .role-badges, .github-stats, .achievements-showcase {
     animation: fadeIn 0.5s ease-out forwards;
+  }
+
+  .stat-card:hover .stat-icon {
+    animation: float 2s ease-in-out infinite;
   }
 
   /* Responsive Design */
   @media (max-width: 768px) {
-    .stats-container {
-      grid-template-columns: repeat(2, 1fr);
+    .stats-row {
+      grid-template-columns: 1fr;
     }
     
-    .tech-stack {
+    .achievement-cards {
       grid-template-columns: 1fr;
     }
   }
