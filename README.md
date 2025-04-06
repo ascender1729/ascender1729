@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="#research-innovations">
-    <img src="https://img.shields.io/badge/Research_Papers-4-blue?style=for-the-badge&logo=googlescholar&logoColor=white&color=0366d6" alt="Research"/>
+    <img src="https://img.shields.io/badge/Research_Papers-3-blue?style=for-the-badge&logo=googlescholar&logoColor=white&color=0366d6" alt="Research"/>
   </a>
   <a href="#blockchain-projects">
     <img src="https://img.shields.io/badge/Patents-2-blue?style=for-the-badge&logo=ethereum&logoColor=white&color=3C3C3D" alt="Blockchain"/>
