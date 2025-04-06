@@ -29,7 +29,7 @@
   <table align="center">
     <tr>
       <td align="center" width="25%">
-        <h2>594</h2>
+        <h2>19K+</h2>
         <p>GitHub Commits</p>
       </td>
       <td align="center" width="25%">
