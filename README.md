@@ -14,6 +14,24 @@ Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues,
   <img src="https://img.shields.io/badge/⚔️_LeetCode_Knight-1875?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </div>
 
+## 💼 **Experience Highlights**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_Founder-VibeTensor-2F3134?style=for-the-badge&logo=startup&logoColor=white" alt="Founder"/>
+  <img src="https://img.shields.io/badge/💡_Senior_Associate-Innodata-2F3134?style=for-the-badge&logo=innodata&logoColor=white" alt="Innodata"/>
+  <img src="https://img.shields.io/badge/🔬_Research_Intern-NIT_Patna-2F3134?style=for-the-badge&logo=nit&logoColor=white" alt="NIT Patna"/>
+</div>
+
+- **VibeTensor** | Founder (2025-Present)
+  - Enhanced 50+ student profiles with ML-driven analytics
+  - Developed technical roadmaps for hackathon success
+- **Innodata** | Senior Associate (2024)
+  - Built AI-powered VQA systems (300% productivity boost)
+  - Achieved 98% data precision with automated workflows
+- **NIT Patna** | Research Intern (2023-2024)
+  - Created ML-blockchain fraud detection (99.93% accuracy)
+  - Implemented ECIES protocols (99.9% security)
+
 ## 📚 **Research & IP**
 <div align="center">
   <img src="https://img.shields.io/badge/🔬_Research_Papers-2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research Papers"/>
@@ -52,13 +70,14 @@ Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues,
   </a>
 </div>
 
-## 🤝 **Collab**
-Open to ML/Blockchain projects & tech innovations for social impact.
-
+## 🤝 **Looking For**
 <div align="center">
-  <img src="https://img.shields.io/badge/🔍_Looking_For-2F3134?style=for-the-badge&logo=github&logoColor=white" alt="Looking For"/>
-  <img src="https://img.shields.io/badge/🤝_Open_To_Collab-2F3134?style=for-the-badge&logo=github&logoColor=white" alt="Open To Collab"/>
+  <img src="https://img.shields.io/badge/🔍_Research_Roles-2F3134?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research Roles"/>
+  <img src="https://img.shields.io/badge/💡_Tech_Leadership-2F3134?style=for-the-badge&logo=leadership&logoColor=white" alt="Tech Leadership"/>
+  <img src="https://img.shields.io/badge/🚀_Startup_Opportunities-2F3134?style=for-the-badge&logo=startup&logoColor=white" alt="Startup Opportunities"/>
 </div>
+
+Open to ML/Blockchain research roles, tech leadership positions, and innovative startup opportunities.
 
 
 
