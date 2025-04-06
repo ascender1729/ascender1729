@@ -159,23 +159,23 @@
 <table width="100%">
   <tr>
     <td align="center" width="20%">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB0cWJxc3N0cmZoczNtZ2U0b2kwN2pkYTNtbWVzYjZqeHNtaWx6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.gif" width="70" alt="AI"/>
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="70" alt="AI"/>
       <h4>ML & AI</h4>
     </td>
     <td align="center" width="20%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ5eHZ0OTJieG50cG0weWhsdXRqOGJmazU1aGQ0bTk1aDR2YnZsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HVofJOWFXGpDX4xeg1/giphy.gif" width="70" alt="Blockchain"/>
+      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="70" alt="Blockchain"/>
       <h4>Blockchain</h4>
     </td>
     <td align="center" width="20%">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF3NnRidnczMzJpZ3VqY2g0dmRuYXhqaTIxajF1Mjl0aGdnYzZnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="Web Dev"/>
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70" alt="Web Dev"/>
       <h4>Development</h4>
     </td>
     <td align="center" width="20%">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNtN2NxdDJlNTQzdjI0OXJuOHdoYzh1aTRxZXNxbnI5MXJodjRqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G1ifnX4d5tYFACkr0w/giphy.gif" width="70" alt="Cloud"/>
+      <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="70" alt="Cloud"/>
       <h4>Cloud & DevOps</h4>
     </td>
     <td align="center" width="20%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pidW83d2d1djAyejQxOTVuNmV0aXpmN29nZXA1MjQ3bWI5MXVoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWawolwsJXnczl7xnQ/giphy.gif" width="70" alt="Data"/>
+      <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" width="70" alt="Data"/>
       <h4>Data Science</h4>
     </td>
   </tr>
@@ -220,7 +220,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/quantum.gif" width="100" alt="Quantum Computing"/>
+      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100" alt="Quantum Computing"/>
       <h3>QuantumWaste</h3>
       <p align="left">
         Quantum-inspired molecular recycling simulator with 25% enhanced polymer processing efficiency. Leverages PennyLane algorithms with Three.js immersive visualization system.
@@ -232,7 +232,7 @@
       </div>
     </td>
     <td width="50%" align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-6WjaYq-vc21d8aKKuTYAw.gif" width="100" alt="Healthcare"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Healthcare"/>
       <h3>Healthcare Fraud Detection</h3>
       <p align="left">
         Revolutionary ML-Blockchain hybrid achieving 99.93% diagnostic precision through novel ensemble architecture. Implemented ECC cryptography with 99.9% verified data security.
@@ -246,7 +246,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif" width="100" alt="Urban"/>
+      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" alt="Urban"/>
       <h3>Urban Soundscape Harmonizer</h3>
       <p align="left">
         Real-time acoustic monitoring across urban centers utilizing IoT simulation with 30% enhanced audio classification accuracy and geospatial visualization.
@@ -258,7 +258,7 @@
       </div>
     </td>
     <td width="50%" align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*NvwrgbL0zKAtX4xgEfuL1g.gif" width="100" alt="GAN"/>
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" alt="GAN"/>
       <h3>GAN Art Style Transfer</h3>
       <p align="left">
         Advanced artistic style transfer implementation utilizing Pix2Pix GAN architecture published in IEEE IC3SE 2024. Creates museum-quality transformations with 91% style fidelity.
@@ -278,21 +278,21 @@
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/?size=96&id=121796&format=png&color=000000" width="50" alt="Code"/>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/Earth.gif?raw=true" width="80" alt="Code"/>
       <h3>Code Your Future</h3>
       <p align="left">
         Mentored 15+ refugee developers, achieving 80% successful job placement rate. Created specialized curriculum with 92% learning satisfaction ratings.
       </p>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/?size=96&id=IKN3NvAu8gFq&format=png&color=000000" width="50" alt="Museum"/>
+      <img src="https://user-images.githubusercontent.com/74038190/238200436-3c664094-3d1c-4a66-aa43-24001f5b8b18.gif" width="80" alt="Museum"/>
       <h3>Museum Without Frontiers</h3>
       <p align="left">
         Developed backend API infrastructure for cross-cultural digital exhibitions, enabling virtual access to 23+ international museum collections.
       </p>
     </td>
     <td width="33%" align="center">
-      <img src="https://img.icons8.com/?size=96&id=8PwUDTUTJGxe&format=png&color=000000" width="50" alt="Child"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80" alt="Child"/>
       <h3>Child Rights and You</h3>
       <p align="left">
         Launched technology literacy programs impacting 200+ children in underserved communities, introducing computing and digital skills foundation.
@@ -347,24 +347,36 @@
   <table width="100%">
     <tr>
       <td width="25%" align="center">
-        <img src="https://img.icons8.com/?size=96&id=85100&format=png&color=000000" width="50" alt="IEEE"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="IEEE"/>
         <h3>IEEE</h3>
         <p>Member #98915358</p>
+        <a href="https://www.ieee.org/">
+          <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Badge"/>
+        </a>
       </td>
       <td width="25%" align="center">
-        <img src="https://img.icons8.com/?size=96&id=55306&format=png&color=000000" width="50" alt="ACM"/>
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="ACM"/>
         <h3>ACM</h3>
         <p>Member #8485149</p>
+        <a href="https://www.acm.org/">
+          <img src="https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=acm&logoColor=white" alt="ACM Badge"/>
+        </a>
       </td>
       <td width="25%" align="center">
-        <img src="https://img.icons8.com/?size=96&id=22813&format=png&color=000000" width="50" alt="AMS"/>
+        <img src="https://user-images.githubusercontent.com/74038190/238200620-398b49af-fa3c-4aed-a23b-22aeeda8815d.gif" width="80" alt="AMS"/>
         <h3>AMS</h3>
         <p>Member #PVDBXA</p>
+        <a href="https://www.ams.org/">
+          <img src="https://img.shields.io/badge/AMS-4285F4?style=for-the-badge&logo=american-mathematical-society&logoColor=white" alt="AMS Badge"/>
+        </a>
       </td>
       <td width="25%" align="center">
-        <img src="https://img.icons8.com/?size=96&id=FVGJCRPTAHSu&format=png&color=000000" width="50" alt="IAENG"/>
+        <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="80" alt="IAENG"/>
         <h3>IAENG</h3>
         <p>Member #383517</p>
+        <a href="https://www.iaeng.org/">
+          <img src="https://img.shields.io/badge/IAENG-D4232C?style=for-the-badge&logo=engineering&logoColor=white" alt="IAENG Badge"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -372,7 +384,7 @@
 
 <div align="center">
   <a href="https://github.com/ascender1729">
-    <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47xzl7hn4ehx2e9zp3je7ordgp1p0rvyjzco87j9xw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Data Visualization" />
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400" alt="Data Visualization" />
   </a>
 </div>
 
