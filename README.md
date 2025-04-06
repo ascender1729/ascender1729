@@ -4,55 +4,44 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72A&center=true&vCenter=true&width=435&lines=Machine+Learning+Researcher;Blockchain+Enthusiast;Competitive+Programmer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-## 🎓 About Me & GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=radical" alt="GitHub Streak" />
 </div>
 
-I'm Dubasi Pavan Kumar, an aspiring researcher with a profound interest in the interplay between mathematics and cutting-edge technology. I completed my Integrated Master of Science in Mathematics at the National Institute of Technology, Patna, achieving an impressive CGPA of 8.89/10. My research explores intricate fields such as machine learning and blockchain technology, with the goal of harnessing these disciplines to drive practical innovations and solutions.
+## 🎓 About Me
 
-<!-- GITHUB_STATS_START -->
-Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues, submitted 0 pull requests, and received 43 stars across 31 personal projects. Contributed to 3 public repositories.
-<!-- GITHUB_STATS_END -->
+I'm a passionate researcher and developer with expertise in machine learning, blockchain technology, and full-stack development. I hold an Integrated Master of Science in Mathematics from the National Institute of Technology, Patna, with an impressive CGPA of 8.89/10.
 
-## 🏆 **Achievements**
+## 🏆 Professional Experience
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ascender1729&theme=radical&row=2&column=4" alt="Trophies" />
-</div>
+### VibeTensor (Apr 2025 - Present)
+**Founder | Remote**
+- Analyzed academic profiles for 50+ students, enhancing GPA outcomes
+- Constructed technical roadmaps for hackathons and industry roles
 
-- **NPTEL Stars - NPTEL Believers**  
-  <img src="https://img.shields.io/badge/NPTEL-Stars-9cf?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL Stars" />
+### Innodata India Pvt. Ltd. (Nov 2024 - Dec 2024)
+**Senior Associate (L2)**
+- Pioneered automated visual question-answer systems with 300% productivity enhancement
+- Established LaTeX formatting protocols with 98% data precision
+- Streamlined Q&A workflow frameworks reducing manual operations by 80%
 
-- **Competitive Coding Excellence**  
-  <div align="center">
-    <img src="https://img.shields.io/badge/Codeforces-Expert-9cf?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-    <img src="https://img.shields.io/badge/LeetCode-Knight-9cf?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Top_45-9cf?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </div>
+### National Institute of Technology Patna (Jul 2023 - Jun 2024)
+**Research Intern**
+- Engineered ML-blockchain healthcare fraud detection with 99.93% precision
+- Implemented ECIES cryptographic protocols via Hyperledger framework
+- Developed Flask-based analytical platform for fraud analysis
 
-- **Certifications & Continuous Learning**  
-  ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazonaws)  
-  AWS Certified Cloud Practitioner; Full Stack Web Development with NodeJS from Coding Blocks; Blockchain Technology & Applications from EICT NITP; Six Sigma Green Belt Specialization from Coursera.
+## 🎓 Education
 
-## 📜 **Patents**
-- **AI-Enabled Robotic Device for Business Automation**  
-  UK Design Registration No. 6335588, Grant Date: 10 January 2024.
+### National Institute of Technology Patna (Jul 2019 - Jun 2024)
+**Integrated Master of Science in Mathematics**
+- CGPA: 8.89/10 (88.9%)
+- Thesis: Enhancing Healthcare Insurance Fraud Detection and Prevention with ML and Blockchain
 
-- **Emotion Recognition and Analysis System for Mental Health Assessment**  
-  The Patent Office Journal, 29/09/2023, No. 39/2023, pp. 64318-64802.
-
-## 📚 **Research Publications**
-- **Artistic Style Transfer using Generative Adversarial Networks: A Pix2Pix Implementation**  
-  To be published at the 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE).
-
-- **A Study on Facial Feature Extraction and Emotional Analysis Using ML**  
-  Published in the International Journal of All Research Education and Scientific Methods (IJARESM), ISSN: 2455-6211, Vol. 11, Issue 7, July 2023, pp. 2455-2467.
-
-  
-## 🛠 Skills
+## 🛠 Technical Skills
 
 <div align="center">
   <h3>Programming Languages</h3>
@@ -61,17 +50,17 @@ Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues,
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   
-  <h3>Web Development</h3>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  
-  <h3>Machine Learning & AI</h3>
+  <h3>AI/ML & Data Science</h3>
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  
+  <h3>Web Development</h3>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   
   <h3>Cloud & DevOps</h3>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -79,15 +68,29 @@ Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues,
   <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </div>
 
-## 🌱 Interests
-Machine learning, NLP, CV, blockchain technology, ethical AI, climate-resilient systems.
+## 📚 Publications & Patents
 
-## 📬 **Reach Out to Me**
+### Publications
+- **Federated Learning for Privacy Preserving Collaboration in Healthcare** (IC3SE-2025)
+- **Artistic Style Transfer using Generative Adversarial Networks** (IC3SE-2024)
+- **A Study on Facial Feature Extraction and Emotional Analysis Using ML** (IJARESM)
+
+### Patents
+- **AI-Enabled Robotic Device for Business Automation** (UK Design Registration No. 6335588)
+- **Emotion Recognition and Analysis System for Mental Health Assessment** (Indian Patent)
+
+## 🏆 Achievements
 
 <div align="center">
-  <a href="mailto:pavan.dubasi2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/NPTEL-Stars-9cf?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL Stars" />
+  <img src="https://img.shields.io/badge/Codeforces-Expert-9cf?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/LeetCode-Knight-9cf?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Top_45-9cf?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</div>
+
+## 📬 Connect With Me
+
+<div align="center">
   <a href="https://linkedin.com/in/im-pavankumar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -99,9 +102,6 @@ Machine learning, NLP, CV, blockchain technology, ethical AI, climate-resilient 
   </a>
   <a href="https://medium.com/@ascender1729">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://ascender1729.github.io/pavan-kumar-portfolio/">
-    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
 </div>
 
