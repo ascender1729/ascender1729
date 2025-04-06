@@ -54,7 +54,7 @@
   <table width="100%">
     <tr>
       <td width="60%" align="center">
-        <h3>VibeTensor | Founder & CEO</h3>
+        <h3>VibeTensor | Founder </h3>
         <p align="left">
           Founded an AI-driven EdTech platform optimizing personalized learning pathways through proprietary algorithms. Secured initial funding with 25% MoM growth and demonstrated 40% improvement in learning outcomes across 50+ academic profiles.
         </p>
