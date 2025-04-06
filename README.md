@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Pavan Kumar | ML & Blockchain Researcher
 
+<div align="center">
+  <img src="https://img.shields.io/badge/🔬_Researcher-2F3134?style=for-the-badge&logo=researchgate&logoColor=white" alt="Researcher"/>
+  <img src="https://img.shields.io/badge/🤖_AI_Engineer-2F3134?style=for-the-badge&logo=ai&logoColor=white" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/🔗_Blockchain_Dev-2F3134?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain Dev"/>
+</div>
+
 ## 🎯 Quick Stats
 <!-- GITHUB_STATS_START -->
 Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues, submitted 0 pull requests, and received 43 stars across 31 personal projects. Contributed to 3 public repositories.
@@ -17,7 +23,6 @@ Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues,
 ## 💼 **Experience**
 
 <div align="center">
-  <!-- Current Role -->
   <a href="https://vibetensor.com">
     <img src="https://img.shields.io/badge/🚀_Founder_&_CEO-VibeTensor-2F3134?style=for-the-badge&logo=startup&logoColor=white" alt="Founder"/>
   </a>
@@ -40,15 +45,32 @@ Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues,
 </div>
 
 ## 📚 **Research & IP**
+
 <div align="center">
   <img src="https://img.shields.io/badge/🔬_Research_Papers-2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Research Papers"/>
   <img src="https://img.shields.io/badge/📜_Patents-2?style=for-the-badge&logo=patreon&logoColor=white" alt="Patents"/>
 </div>
 
-- **AI-Enabled Robotic Device** | UK Design Reg: 6335588
-- **Emotion Recognition System** | Patent: 39/2023
-- **GAN-based Style Transfer** | IC3SE 2024
-- **Facial Feature Analysis** | IJARESM 2023
+<div align="center">
+  <table>
+    <tr>
+      <td>• AI-Enabled Robotic Device</td>
+      <td>UK Design Reg: 6335588</td>
+    </tr>
+    <tr>
+      <td>• Emotion Recognition System</td>
+      <td>Patent: 39/2023</td>
+    </tr>
+    <tr>
+      <td>• GAN-based Style Transfer</td>
+      <td>IC3SE 2024</td>
+    </tr>
+    <tr>
+      <td>• Facial Feature Analysis</td>
+      <td>IJARESM 2023</td>
+    </tr>
+  </table>
+</div>
 
 ## 💻 **Tech Stack**
 
@@ -117,13 +139,16 @@ Joined GitHub 4 years ago. Since then, I've pushed 594 commits, opened 1 issues,
 </div>
 
 ## 🤝 **Looking For**
+
 <div align="center">
   <img src="https://img.shields.io/badge/🔍_Research_Roles-2F3134?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research Roles"/>
   <img src="https://img.shields.io/badge/💡_Tech_Leadership-2F3134?style=for-the-badge&logo=leadership&logoColor=white" alt="Tech Leadership"/>
   <img src="https://img.shields.io/badge/🚀_Startup_Opportunities-2F3134?style=for-the-badge&logo=startup&logoColor=white" alt="Startup Opportunities"/>
 </div>
 
-Open to ML/Blockchain research roles, tech leadership positions, and innovative startup opportunities.
+<div align="center">
+  <p>Open to ML/Blockchain research roles, tech leadership positions, and innovative startup opportunities.</p>
+</div>
 
 
 
