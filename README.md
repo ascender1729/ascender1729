@@ -20,10 +20,6 @@
 
 <!-- HIGHLIGHTS DASHBOARD -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ascender1729&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 </div>
