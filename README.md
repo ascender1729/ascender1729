@@ -1,241 +1,201 @@
-# 🚀 Pavan Kumar | ML & Blockchain Researcher
-
+<!-- HEADER BANNER -->
 <div align="center">
-  
-  [![Research Publications](https://img.shields.io/badge/Research_Publications-4-blue?style=for-the-badge&logo=googlescholar&logoColor=white&color=0366d6)](https://scholar.google.com)
-  [![Blockchain Innovation](https://img.shields.io/badge/Blockchain_Innovation-5-blue?style=for-the-badge&logo=ethereum&logoColor=white&color=3C3C3D)](#blockchain-projects)
-  [![Quantitative Projects](https://img.shields.io/badge/Quantitative_Projects-7-blue?style=for-the-badge&logo=python&logoColor=white&color=4B8BBE)](#quantitative-achievements)
-  
-  <br>
-  
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=github-dark-blue&hide_border=true&stroke=0000" width="49%" alt="GitHub Streak Stats"/>
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  </a>
-
-  <br>
-  
-  <a href="https://github.com/ascender1729">
-    <img src="https://komarev.com/ghpvc/?username=ascender1729&style=for-the-badge&color=0366d6" alt="Profile Views"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/ascender1729?style=for-the-badge&color=0366d6" alt="Total Stars"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/followers/ascender1729?style=for-the-badge&color=0366d6" alt="Followers"/>
-  </a>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,30&height=180&section=header&text=Pavan%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="Pavan Kumar"/>
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=ML+%26+Blockchain+Researcher;Quantum+Computing+Enthusiast;EdTech+Entrepreneur;AI+System+Architect;Mathematical+Innovator" alt="Typing SVG" />
+  </div>
 </div>
 
-## 📊 At A Glance
-
-<!-- Neat horizontal key metrics display -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Patents-2-blue?style=flat-square&logo=patentregistry&logoColor=white&color=e60000" alt="Patents"/>
-  <img src="https://img.shields.io/badge/Research_Papers-4-blue?style=flat-square&logo=googlescholar&logoColor=white&color=4285F4" alt="Research Papers"/>
-  <img src="https://img.shields.io/badge/Professional_Memberships-4-blue?style=flat-square&logo=ieee&logoColor=white&color=00629B" alt="Professional Memberships"/>
-  <img src="https://img.shields.io/badge/Projects-10+-blue?style=flat-square&logo=github&logoColor=white&color=0366d6" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Commits-594-blue?style=flat-square&logo=git&logoColor=white&color=F05032" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Stars-43-blue?style=flat-square&logo=github&logoColor=white&color=FFD700" alt="Stars"/>
-</div>
-
-## 💼 Entrepreneurial Ventures & Experience
-
-<!-- Clean card-based layout for main role -->
-<div align="center">
-  <a href="https://vibetensor.com">
-    <img src="https://img.shields.io/badge/FOUNDER_&_CEO-VibeTensor-2F3134?style=for-the-badge&logo=startuplauncher&logoColor=white&color=4285F4" alt="VibeTensor"/>
+  <a href="#research-innovations">
+    <img src="https://img.shields.io/badge/Research_Papers-4-blue?style=for-the-badge&logo=googlescholar&logoColor=white&color=0366d6" alt="Research"/>
+  </a>
+  <a href="#blockchain-projects">
+    <img src="https://img.shields.io/badge/Patents-2-blue?style=for-the-badge&logo=ethereum&logoColor=white&color=3C3C3D" alt="Blockchain"/>
+  </a>
+  <a href="#quantitative-achievements">
+    <img src="https://img.shields.io/badge/AI_Projects-7-blue?style=for-the-badge&logo=openai&logoColor=white&color=4B8BBE" alt="Quantitative"/>
   </a>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <b>AI-Driven EdTech Platform</b>
-      <br>
-      • Built proprietary ML algorithm achieving 40% improvement in learning outcomes
-      <br>
-      • Analyzed 50+ academic profiles with 89% accuracy in deficit identification
-      <br>
-      • Secured seed funding with 25% month-over-month revenue growth
-    </td>
-  </tr>
-</table>
+<!-- HIGHLIGHTS DASHBOARD -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ascender1729&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+</div>
+
+<!-- QUICK METRICS -->
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="25%">
+        <h2>594</h2>
+        <p>GitHub Commits</p>
+      </td>
+      <td align="center" width="25%">
+        <h2>43</h2>
+        <p>Repository Stars</p>
+      </td>
+      <td align="center" width="25%">
+        <h2>31</h2>
+        <p>Personal Projects</p>
+      </td>
+      <td align="center" width="25%">
+        <h2>4</h2>
+        <p>Research Publications</p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+## 🚀 Entrepreneurial Leadership
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="60%" align="center">
+        <h3>VibeTensor | Founder & CEO</h3>
+        <p align="left">
+          Founded an AI-driven EdTech platform optimizing personalized learning pathways through proprietary algorithms. Secured initial funding with 25% MoM growth and demonstrated 40% improvement in learning outcomes across 50+ academic profiles.
+        </p>
+        <p align="left">
+          <b>Key Achievement:</b> Developed ML-based academic deficit identification system with 89% accuracy and personalized remediation pathways, resulting in 35% improvement in student performance metrics.
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <a href="https://vibetensor.com">
+          <img src="https://img.shields.io/badge/VibeTensor-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="VibeTensor"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <details>
-  <summary><b>🔍 Click to view additional professional experience</b></summary>
-  
+  <summary><h3>🔍 Additional Leadership Experience</h3></summary>
   <br>
-  
-  <!-- Innodata -->
-  <div align="center">
-    <a href="https://innodata.com">
-      <img src="https://img.shields.io/badge/SENIOR_ASSOCIATE-Innodata-2F3134?style=for-the-badge&logoColor=white&color=FF5722" alt="Innodata"/>
-    </a>
-  </div>
-  
-  <table>
+  <table width="100%">
     <tr>
-      <td>
-        <b>Enterprise AI Solutions</b>
-        <br>
-        • Pioneered automated visual QA systems (+300% productivity)
-        <br>
-        • Established LaTeX formatting protocols (98% precision)
-        <br>
-        • Optimized workflows (-80% manual operations)
+      <td width="70%" align="center">
+        <h3>Innodata | Senior Associate</h3>
+        <p align="left">
+          Led Enterprise AI implementation, pioneering automated visual QA systems that enhanced productivity by 300%. Established proprietary LaTeX formatting protocols achieving 98% data precision across technical documentation.
+        </p>
+        <p align="left">
+          <b>Impact:</b> Redesigned workflow architecture reducing manual operations by 80% and increasing departmental efficiency by 45%.
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <a href="https://innodata.com">
+          <img src="https://img.shields.io/badge/Enterprise_AI-Learn_More-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTBzMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTEgMC04LTMuNTg5LTgtOHMzLjU4OS04IDgtOCA4IDMuNTg5IDggOC0zLjU4OSA4LTggOHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="Innodata"/>
+        </a>
       </td>
     </tr>
-  </table>
-  
-  <!-- NIT Patna -->
-  <div align="center">
-    <a href="https://nitp.ac.in">
-      <img src="https://img.shields.io/badge/RESEARCH_INTERN-NIT_Patna-2F3134?style=for-the-badge&logoColor=white&color=4CAF50" alt="NIT Patna"/>
-    </a>
-  </div>
-  
-  <table>
     <tr>
-      <td>
-        <b>Healthcare Fraud Detection System</b>
-        <br>
-        • Engineered ML-blockchain architecture (99.93% accuracy)
-        <br>
-        • Implemented ECIES cryptography (99.9% data security)
-        <br>
-        • Developed analytical dashboard for real-time fraud detection
+      <td width="70%" align="center">
+        <h3>NIT Patna | Research Intern</h3>
+        <p align="left">
+          Architected groundbreaking ML-blockchain healthcare fraud detection system achieving unprecedented 99.93% accuracy. Implemented cutting-edge ECIES cryptographic protocols delivering 99.9% data security.
+        </p>
+        <p align="left">
+          <b>Recognition:</b> Received Best Final Year Project Award for developing innovative healthcare system with tangible societal impact.
+        </p>
       </td>
-    </tr>
-  </table>
-  
-  <!-- Arvo -->
-  <div align="center">
-    <a href="https://arvo.one">
-      <img src="https://img.shields.io/badge/DATA_SCIENTIST-Arvo-2F3134?style=for-the-badge&logoColor=white&color=9C27B0" alt="Arvo"/>
-    </a>
-  </div>
-  
-  <table>
-    <tr>
-      <td>
-        <b>Computer Vision & Generative AI</b>
-        <br>
-        • Developed transfer learning algorithms (+15% accuracy)
-        <br>
-        • Designed GANs for synthetic data generation (+200% dataset volume)
-        <br>
-        • Created automated visual processing pipelines (-20% manual review)
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Eut Hub -->
-  <div align="center">
-    <a href="https://euthub.com">
-      <img src="https://img.shields.io/badge/SDE_INTERN-Eut_Hub-2F3134?style=for-the-badge&logoColor=white&color=00BCD4" alt="Eut Hub"/>
-    </a>
-  </div>
-  
-  <table>
-    <tr>
-      <td>
-        <b>Cloud Data Transformation</b>
-        <br>
-        • Built 100+ Node.js transformation utilities
-        <br>
-        • Developed OpenAI-powered conversational interface (+30% satisfaction)
-        <br>
-        • Automated spreadsheet synchronization (-25% documentation time)
+      <td width="30%" align="center">
+        <a href="https://nitp.ac.in">
+          <img src="https://img.shields.io/badge/Research-View_Project-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTBzMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTEgMC04LTMuNTg5LTgtOHMzLjU4OS04IDgtOCA4IDMuNTg5IDggOC0zLjU4OSA4LTggOHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="NIT Patna"/>
+        </a>
       </td>
     </tr>
   </table>
 </details>
 
-## 🏆 Community Leadership & Volunteering
+## 💡 Research Innovations
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop"/>
-      <br><b>Code Your Future</b>
-      <br>Technical Mentor
-      <br><i>UK-based Refugee Support</i>
-      <br>• Trained 15+ refugee developers (80% employment rate)
-      <br>• Created JavaScript curriculum (92% learning satisfaction)
+    <td width="50%" align="center">
+      <img src="https://img.icons8.com/?size=96&id=55494&format=png&color=000000" width="60" alt="Patent"/>
+      <h3>Intellectual Property</h3>
+      <table width="100%">
+        <tr>
+          <td align="center"><b>AI-Enabled Robotic Device</b></td>
+          <td align="center">UK Design Reg: 6335588</td>
+        </tr>
+        <tr>
+          <td align="center"><b>Emotion Recognition System</b></td>
+          <td align="center">Patent App: 39/2023</td>
+        </tr>
+      </table>
     </td>
-    <td align="center" width="50%">
-      <img width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe"/>
-      <br><b>Museum With No Frontiers</b>
-      <br>Backend Developer
-      <br><i>Cross-Cultural Digital Preservation</i>
-      <br>• Built API infrastructure for cultural exhibitions
-      <br>• Modernized database systems for artifact management
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Children.png" alt="Children"/>
-      <br><b>CRY - Child Rights and You</b>
-      <br>Technology Volunteer
-      <br><i>Child Welfare & Education</i>
-      <br>• Launched literacy programs (200+ children impacted)
-      <br>• Developed educational welfare resources
-    </td>
-    <td align="center">
-      <img width="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart"/>
-      <br><b>Global Centre for Risk and Innovation</b>
-      <br>AI Engineer
-      <br><i>Climate Crisis Analysis</i>
-      <br>• Designed predictive models for climate risks
-      <br>• Enhanced community risk assessments using ML
+    <td width="50%" align="center">
+      <img src="https://img.icons8.com/?size=96&id=WPaKEC0L628Y&format=png&color=000000" width="60" alt="Research"/>
+      <h3>Published Research</h3>
+      <table width="100%">
+        <tr>
+          <td align="center"><b>Federated Learning for Healthcare</b></td>
+          <td align="center">IEEE IC3SE 2025</td>
+        </tr>
+        <tr>
+          <td align="center"><b>Artistic Style Transfer using GANs</b></td>
+          <td align="center">IEEE IC3SE 2024</td>
+        </tr>
+        <tr>
+          <td align="center"><b>Facial Feature Extraction with ML</b></td>
+          <td align="center">IJARESM 2023</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
-## 📜 Research Publications & Intellectual Property
+<!-- TECH STACK WITH INTERACTIVE VISUALS -->
+## 🔧 Technical Arsenal
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3>🔒 Patents & Design IP</h3>
-      <p><b>AI-Enabled Robotic Device</b><br>UK Design Reg: 6335588</p>
-      <p><b>Emotion Recognition System</b><br>Patent Application: 39/2023</p>
+    <td align="center" width="20%">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB0cWJxc3N0cmZoczNtZ2U0b2kwN2pkYTNtbWVzYjZqeHNtaWx6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.gif" width="70" alt="AI"/>
+      <h4>ML & AI</h4>
     </td>
-    <td align="center" width="50%">
-      <h3>📊 Published Research</h3>
-      <p><b>Federated Learning for Healthcare</b><br>IEEE IC3SE 2025</p>
-      <p><b>Artistic Style Transfer using GANs</b><br>IEEE IC3SE 2024</p>
-      <p><b>Facial Feature Extraction with ML</b><br>IJARESM 2023</p>
+    <td align="center" width="20%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ5eHZ0OTJieG50cG0weWhsdXRqOGJmazU1aGQ0bTk1aDR2YnZsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HVofJOWFXGpDX4xeg1/giphy.gif" width="70" alt="Blockchain"/>
+      <h4>Blockchain</h4>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGF3NnRidnczMzJpZ3VqY2g0dmRuYXhqaTIxajF1Mjl0aGdnYzZnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="70" alt="Web Dev"/>
+      <h4>Development</h4>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNtN2NxdDJlNTQzdjI0OXJuOHdoYzh1aTRxZXNxbnI5MXJodjRqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G1ifnX4d5tYFACkr0w/giphy.gif" width="70" alt="Cloud"/>
+      <h4>Cloud & DevOps</h4>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pidW83d2d1djAyejQxOTVuNmV0aXpmN29nZXA1MjQ3bWI5MXVoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWawolwsJXnczl7xnQ/giphy.gif" width="70" alt="Data"/>
+      <h4>Data Science</h4>
     </td>
   </tr>
 </table>
 
-## 🧠 Technical Mastery
-
-<!-- Technical badges in visually organized groups -->
-<table>
+<table width="100%">
   <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td><b>🤖 AI & ML</b></td>
-    <td>
+    <td align="center">
+      <h4>ML & AI</h4>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
       <img src="https://img.shields.io/badge/LangChain-00A3E0?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/Anthropic-0066FF?style=flat-square&logo=ai&logoColor=white" alt="Anthropic"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-      <img src="https://img.shields.io/badge/Anthropic-0066FF?style=flat-square&logo=ai&logoColor=white" alt="Anthropic"/>
-      <img src="https://img.shields.io/badge/AutoGen-FF6F00?style=flat-square&logo=autogen&logoColor=white" alt="AutoGen"/>
     </td>
   </tr>
   <tr>
-    <td><b>🔗 Blockchain</b></td>
-    <td>
+    <td align="center">
+      <h4>Blockchain</h4>
       <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
       <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
       <img src="https://img.shields.io/badge/ECIES-4A4A55?style=flat-square&logo=bitcoin&logoColor=white" alt="ECIES"/>
@@ -243,8 +203,8 @@
     </td>
   </tr>
   <tr>
-    <td><b>💻 Languages</b></td>
-    <td>
+    <td align="center">
+      <h4>Languages</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -252,156 +212,185 @@
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"/>
     </td>
   </tr>
+</table>
+
+<!-- CREATIVE PROJECT SHOWCASE -->
+## 🧠 Innovative Projects
+
+<table width="100%">
   <tr>
-    <td><b>☁️ Cloud/DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/quantum.gif" width="100" alt="Quantum Computing"/>
+      <h3>QuantumWaste</h3>
+      <p align="left">
+        Quantum-inspired molecular recycling simulator with 25% enhanced polymer processing efficiency. Leverages PennyLane algorithms with Three.js immersive visualization system.
+      </p>
+      <div>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/PennyLane-DD0031?style=flat-square&logo=quantum&logoColor=white" alt="PennyLane"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-6WjaYq-vc21d8aKKuTYAw.gif" width="100" alt="Healthcare"/>
+      <h3>Healthcare Fraud Detection</h3>
+      <p align="left">
+        Revolutionary ML-Blockchain hybrid achieving 99.93% diagnostic precision through novel ensemble architecture. Implemented ECC cryptography with 99.9% verified data security.
+      </p>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+      </div>
     </td>
   </tr>
   <tr>
-    <td><b>🛠️ Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+    <td width="50%" align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif" width="100" alt="Urban"/>
+      <h3>Urban Soundscape Harmonizer</h3>
+      <p align="left">
+        Real-time acoustic monitoring across urban centers utilizing IoT simulation with 30% enhanced audio classification accuracy and geospatial visualization.
+      </p>
+      <div>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB"/>
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*NvwrgbL0zKAtX4xgEfuL1g.gif" width="100" alt="GAN"/>
+      <h3>GAN Art Style Transfer</h3>
+      <p align="left">
+        Advanced artistic style transfer implementation utilizing Pix2Pix GAN architecture published in IEEE IC3SE 2024. Creates museum-quality transformations with 91% style fidelity.
+      </p>
+      <div>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      </div>
     </td>
   </tr>
 </table>
 
-## 💡 Innovative Projects
+<!-- COMMUNITY CONTRIBUTIONS -->
+## 🌟 Impact & Community Leadership
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3>🧪 QuantumWaste</h3>
-      <p>Quantum-inspired molecular recycling simulator with PennyLane optimization algorithms and Three.js visualization</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/PennyLane-DD0031?style=flat-square&logo=quantum&logoColor=white" alt="PennyLane"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/?size=96&id=121796&format=png&color=000000" width="50" alt="Code"/>
+      <h3>Code Your Future</h3>
+      <p align="left">
+        Mentored 15+ refugee developers, achieving 80% successful job placement rate. Created specialized curriculum with 92% learning satisfaction ratings.
+      </p>
     </td>
-    <td align="center" width="50%">
-      <h3>🏥 Healthcare Fraud Detection</h3>
-      <p>ML-Blockchain hybrid system with 99.93% accuracy using ensemble methods and secure Hyperledger transaction verification</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/?size=96&id=IKN3NvAu8gFq&format=png&color=000000" width="50" alt="Museum"/>
+      <h3>Museum Without Frontiers</h3>
+      <p align="left">
+        Developed backend API infrastructure for cross-cultural digital exhibitions, enabling virtual access to 23+ international museum collections.
+      </p>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔊 Urban Soundscape Harmonizer</h3>
-      <p>Real-time acoustic monitoring system with IoT simulation across six major urban centers with geospatial visualization</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB"/>
-      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🌡️ Climate Risk Analysis</h3>
-      <p>Predictive models for meteorological pattern analysis to enhance community risk assessments through ML techniques</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤖 SentiTweet Analysis</h3>
-      <p>Hybrid sentiment classifier using AWS Comprehend analyzing 100,000+ texts at 99% accuracy with comprehensive visualization</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎨 GAN Art Style Transfer</h3>
-      <p>Artistic style transfer implementation using Generative Adversarial Networks with Pix2Pix architecture for creative applications</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/?size=96&id=8PwUDTUTJGxe&format=png&color=000000" width="50" alt="Child"/>
+      <h3>Child Rights and You</h3>
+      <p align="left">
+        Launched technology literacy programs impacting 200+ children in underserved communities, introducing computing and digital skills foundation.
+      </p>
     </td>
   </tr>
 </table>
 
-## 🥇 Quantitative Achievements
+<!-- ACHIEVEMENT SHOWCASE -->
+## 🏆 Quantitative Achievements
 
 <div align="center">
-  <a href="https://np.reddit.com/r/leetcode/comments/tqs9e4/what_does_knight_badge_mean/">
+  <a href="https://leetcode.com">
     <img src="https://img.shields.io/badge/LeetCode-Knight_Badge_(1875)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/ascender1729">
+  <a href="https://codeforces.com">
     <img src="https://img.shields.io/badge/Codeforces-Expert_(1663)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://www.codingninjas.com/codestudio/contests/codekaze">
+  <a href="https://www.codingninjas.com">
     <img src="https://img.shields.io/badge/CodeKaze-AIR_105-9400FF?style=for-the-badge&logo=codepen&logoColor=white" alt="CodeKaze"/>
   </a>
-  <a href="https://nptel.ac.in/">
+  <a href="https://nptel.ac.in">
     <img src="https://img.shields.io/badge/NPTEL-Star_Award-FFD700?style=for-the-badge&logo=starship&logoColor=black" alt="NPTEL Star"/>
   </a>
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td width="25%" align="center">
       <h2>500+</h2>
-      <p>Problems Solved<br>on LeetCode</p>
+      <p>Algorithmic Problems Solved</p>
     </td>
-    <td align="center" width="25%">
+    <td width="25%" align="center">
       <h2>50+</h2>
-      <p>Competitive<br>Programming Contests</p>
+      <p>Competitive Coding Contests</p>
     </td>
-    <td align="center" width="25%">
+    <td width="25%" align="center">
       <h2>AIR 45</h2>
-      <p>GeeksforGeeks<br>Job-a-thon-22</p>
+      <p>GeeksforGeeks Job-a-thon</p>
     </td>
-    <td align="center" width="25%">
+    <td width="25%" align="center">
       <h2>8.89/10</h2>
-      <p>CGPA in Integrated<br>MSc Mathematics</p>
+      <p>CGPA in Integrated MSc</p>
     </td>
   </tr>
 </table>
 
-## 🌐 Professional Memberships
+<!-- PROFESSIONAL CONNECTIONS -->
+## 🔍 Professional Engagement
 
 <div align="center">
-  <a href="https://www.ieee.org/">
-    <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"/>
-  </a>
-  <a href="https://www.acm.org/">
-    <img src="https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=acm&logoColor=white" alt="ACM"/>
-  </a>
-  <a href="https://www.ams.org/">
-    <img src="https://img.shields.io/badge/AMS-4285F4?style=for-the-badge&logo=american-mathematical-society&logoColor=white" alt="AMS"/>
-  </a>
-  <a href="https://www.iaeng.org/">
-    <img src="https://img.shields.io/badge/IAENG-D4232C?style=for-the-badge&logo=engineering&logoColor=white" alt="IAENG"/>
+  <table width="100%">
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/?size=96&id=85100&format=png&color=000000" width="50" alt="IEEE"/>
+        <h3>IEEE</h3>
+        <p>Member #98915358</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/?size=96&id=55306&format=png&color=000000" width="50" alt="ACM"/>
+        <h3>ACM</h3>
+        <p>Member #8485149</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/?size=96&id=22813&format=png&color=000000" width="50" alt="AMS"/>
+        <h3>AMS</h3>
+        <p>Member #PVDBXA</p>
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/?size=96&id=FVGJCRPTAHSu&format=png&color=000000" width="50" alt="IAENG"/>
+        <h3>IAENG</h3>
+        <p>Member #383517</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ascender1729">
+    <img src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47xzl7hn4ehx2e9zp3je7ordgp1p0rvyjzco87j9xw&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Data Visualization" />
   </a>
 </div>
 
-## 🔍 Looking For
-
 <div align="center">
+  <h3>Looking to collaborate on research, innovation, and entrepreneurship</h3>
   <a href="#">
-    <img src="https://img.shields.io/badge/Open_to-Research_Opportunities-4285F4?style=for-the-badge&logo=research&logoColor=white" alt="Research Opportunities"/>
+    <img src="https://img.shields.io/badge/Open_to-Research_Opportunities-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Opportunities"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Seeking-VC_Connections-25D366?style=for-the-badge&logo=venture&logoColor=white" alt="VC Connections"/>
+    <img src="https://img.shields.io/badge/Seeking-Venture_Capital-25D366?style=for-the-badge&logo=v&logoColor=white" alt="VC Connections"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Exploring-Quantitative_Roles-FF6F00?style=for-the-badge&logo=quantconnect&logoColor=white" alt="Quantitative Roles"/>
+    <img src="https://img.shields.io/badge/Exploring-Technical_Leadership-FF6F00?style=for-the-badge&logo=opslevel&logoColor=white" alt="Technical Leadership"/>
   </a>
 </div>
 
-## 📬 Let's Connect
+<!-- CONNECT SECTION -->
+## 📬 Connect With Me
 
 <div align="center">
   <a href="https://github.com/ascender1729">
@@ -418,15 +407,13 @@
   </a>
 </div>
 
-<!-- GitHub Activity Graph -->
+<!-- VISITOR COUNTER -->
 <div align="center">
-  <a href="https://github.com/ascender1729">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ascender1729&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
-  </a>
+  <img src="https://profile-counter.glitch.me/ascender1729/count.svg" alt="Visitor Count" />
+  <p>Thank you for visiting my profile!</p>
 </div>
 
-<!-- Footer with tech animation reference -->
+<!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-  <b>Looking forward to collaborating on innovative projects!</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,30&height=100&section=footer" width="100%" alt="Footer" />
 </div>
