@@ -24,29 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 </div>
 
-<!-- QUICK METRICS -->
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="25%">
-        <h2>19K+</h2>
-        <p>GitHub Commits</p>
-      </td>
-      <td align="center" width="25%">
-        <h2>43</h2>
-        <p>Repository Stars</p>
-      </td>
-      <td align="center" width="25%">
-        <h2>31</h2>
-        <p>Personal Projects</p>
-      </td>
-      <td align="center" width="25%">
-        <h2>4</h2>
-        <p>Research Publications</p>
-      </td>
-    </tr>
-  </table>
-</p>
+
 
 ## 🚀 Entrepreneurial Leadership
 
