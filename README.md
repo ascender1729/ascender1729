@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pavan Kumar
+# 👋 Hi, I'm Pavan Kumar | ML & Blockchain Researcher
 
 ## 🎯 Quick Stats
 <!-- GITHUB_STATS_START -->
