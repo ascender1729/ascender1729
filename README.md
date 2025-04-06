@@ -2,87 +2,11 @@
 
 <div align="center">
   <div class="role-badges">
-    <img src="https://img.shields.io/badge/🔬_Researcher-2F3134?style=for-the-badge&logo=researchgate&logoColor=white" alt="Researcher" class="badge-hover"/>
-    <img src="https://img.shields.io/badge/🤖_AI_Engineer-2F3134?style=for-the-badge&logo=ai&logoColor=white" alt="AI Engineer" class="badge-hover"/>
-    <img src="https://img.shields.io/badge/🔗_Blockchain_Dev-2F3134?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain Dev" class="badge-hover"/>
+    <img src="https://img.shields.io/badge/🔬_Researcher-2F3134?style=for-the-badge&logo=researchgate&logoColor=white" alt="Researcher"/>
+    <img src="https://img.shields.io/badge/🤖_AI_Engineer-2F3134?style=for-the-badge&logo=ai&logoColor=white" alt="AI Engineer"/>
+    <img src="https://img.shields.io/badge/🔗_Blockchain_Dev-2F3134?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain Dev"/>
   </div>
 </div>
-
-<style>
-  .role-badges img {
-    transition: transform 0.3s ease;
-    margin: 5px;
-  }
-  .role-badges img:hover {
-    transform: scale(1.1);
-  }
-  .section-card {
-    background: linear-gradient(145deg, #2F3134, #1a1a1a);
-    border-radius: 15px;
-    padding: 20px;
-    margin: 15px 0;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease;
-  }
-  .section-card:hover {
-    transform: translateY(-5px);
-  }
-  .achievement-badge {
-    background: linear-gradient(45deg, #FFD700, #FFA500);
-    border-radius: 10px;
-    padding: 10px;
-    margin: 5px;
-    display: inline-block;
-    transition: all 0.3s ease;
-  }
-  .achievement-badge:hover {
-    transform: scale(1.05);
-    box-shadow: 0 5px 15px rgba(255,215,0,0.3);
-  }
-  .tech-stack-category {
-    background: rgba(47,49,52,0.1);
-    border-radius: 10px;
-    padding: 15px;
-    margin: 10px 0;
-  }
-  .tech-badge {
-    transition: all 0.3s ease;
-    margin: 5px;
-  }
-  .tech-badge:hover {
-    transform: scale(1.1);
-    filter: brightness(1.2);
-  }
-  .connect-button {
-    background: linear-gradient(45deg, #4285F4, #34A853);
-    border-radius: 25px;
-    padding: 10px 20px;
-    color: white;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    display: inline-block;
-    margin: 5px;
-  }
-  .connect-button:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 5px 15px rgba(66,133,244,0.3);
-  }
-  .research-table {
-    width: 100%;
-    border-collapse: separate;
-    border-spacing: 0 10px;
-  }
-  .research-table td {
-    padding: 15px;
-    background: rgba(47,49,52,0.1);
-    border-radius: 8px;
-    transition: all 0.3s ease;
-  }
-  .research-table td:hover {
-    background: rgba(47,49,52,0.2);
-    transform: translateX(5px);
-  }
-</style>
 
 ## 🎯 Quick Stats
 <div class="section-card">
@@ -166,61 +90,61 @@
   <div align="center">
     <div class="tech-stack-category">
       <h3>Programming Languages</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" class="tech-badge"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
     </div>
     
     <div class="tech-stack-category">
       <h3>AI/ML Frameworks</h3>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/AutoGen-FF6F00?style=for-the-badge&logo=autogen&logoColor=white" alt="AutoGen" class="tech-badge"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/LangChain-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/AutoGen-FF6F00?style=for-the-badge&logo=autogen&logoColor=white" alt="AutoGen"/>
     </div>
     
     <div class="tech-stack-category">
       <h3>Web Development</h3>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" class="tech-badge"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
     </div>
     
     <div class="tech-stack-category">
       <h3>Cloud & Databases</h3>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" class="tech-badge"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
     </div>
     
     <div class="tech-stack-category">
       <h3>Blockchain & Security</h3>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/ECIES-4A4A55?style=for-the-badge&logo=security&logoColor=white" alt="ECIES" class="tech-badge"/>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+      <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
+      <img src="https://img.shields.io/badge/ECIES-4A4A55?style=for-the-badge&logo=security&logoColor=white" alt="ECIES"/>
     </div>
     
     <div class="tech-stack-category">
       <h3>Data Science & Analytics</h3>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/PennyLane-FF6F00?style=for-the-badge&logo=quantum&logoColor=white" alt="PennyLane" class="tech-badge"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/PennyLane-FF6F00?style=for-the-badge&logo=quantum&logoColor=white" alt="PennyLane"/>
     </div>
     
     <div class="tech-stack-category">
       <h3>Visualization & UI</h3>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" class="tech-badge"/>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" class="tech-badge"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+      <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/>
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
     </div>
   </div>
 </div>
@@ -260,6 +184,82 @@
     <p>Open to ML/Blockchain research roles, tech leadership positions, and innovative startup opportunities.</p>
   </div>
 </div>
+
+<style>
+  .role-badges img {
+    transition: transform 0.3s ease;
+    margin: 5px;
+  }
+  .role-badges img:hover {
+    transform: scale(1.1);
+  }
+  .section-card {
+    background: linear-gradient(145deg, #2F3134, #1a1a1a);
+    border-radius: 15px;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+  }
+  .section-card:hover {
+    transform: translateY(-5px);
+  }
+  .achievement-badge {
+    background: linear-gradient(45deg, #FFD700, #FFA500);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    transition: all 0.3s ease;
+  }
+  .achievement-badge:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(255,215,0,0.3);
+  }
+  .tech-stack-category {
+    background: rgba(47,49,52,0.1);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 0;
+  }
+  .tech-badge {
+    transition: all 0.3s ease;
+    margin: 5px;
+  }
+  .tech-badge:hover {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+  }
+  .connect-button {
+    background: linear-gradient(45deg, #4285F4, #34A853);
+    border-radius: 25px;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: inline-block;
+    margin: 5px;
+  }
+  .connect-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(66,133,244,0.3);
+  }
+  .research-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+  }
+  .research-table td {
+    padding: 15px;
+    background: rgba(47,49,52,0.1);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+  }
+  .research-table td:hover {
+    background: rgba(47,49,52,0.2);
+    transform: translateX(5px);
+  }
+</style>
 
 
 
