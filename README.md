@@ -26,6 +26,22 @@
     <span class="stat-number">31</span>
     <span class="stat-label">Projects</span>
   </div>
+  <div class="stat-card">
+    <span class="stat-number">3</span>
+    <span class="stat-label">Public Repos</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-number">1</span>
+    <span class="stat-label">Issues</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-number">0</span>
+    <span class="stat-label">PRs</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-number">100%</span>
+    <span class="stat-label">Hackathon Success</span>
+  </div>
 </div>
 
 ## 🏆 **Key Achievements**
