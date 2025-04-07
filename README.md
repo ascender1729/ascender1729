@@ -21,7 +21,7 @@
 <!-- HIGHLIGHTS DASHBOARD -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ascender1729&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  
 </div>
 
 
