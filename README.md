@@ -26,31 +26,9 @@
 
 
 
-## 🚀 Entrepreneurial Leadership
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" align="center">
-        <h3>VibeTensor | Founder </h3>
-        <p align="left">
-          Founded an AI-driven EdTech platform optimizing personalized learning pathways through proprietary algorithms. Secured initial funding with 25% MoM growth and demonstrated 40% improvement in learning outcomes across 50+ academic profiles.
-        </p>
-        <p align="left">
-          <b>Key Achievement:</b> Developed ML-based academic deficit identification system with 89% accuracy and personalized remediation pathways, resulting in 35% improvement in student performance metrics.
-        </p>
-      </td>
-      <td width="40%" align="center">
-        <a href="https://vibetensor.com">
-          <img src="https://img.shields.io/badge/VibeTensor-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="VibeTensor"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <details>
-  <summary><h3>🔍 Additional Leadership Experience</h3></summary>
+  <summary><h3>🔍 Experience</h3></summary>
   <br>
   <table width="100%">
     <tr>
@@ -256,13 +234,6 @@
       <h3>Code Your Future</h3>
       <p align="left">
         Mentored 15+ refugee developers, achieving 80% successful job placement rate. Created specialized curriculum with 92% learning satisfaction ratings.
-      </p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/238200436-3c664094-3d1c-4a66-aa43-24001f5b8b18.gif" width="80" alt="Museum"/>
-      <h3>Museum Without Frontiers</h3>
-      <p align="left">
-        Developed backend API infrastructure for cross-cultural digital exhibitions, enabling virtual access to 23+ international museum collections.
       </p>
     </td>
     <td width="33%" align="center">
