@@ -1,372 +1,425 @@
-<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,30&height=180&section=header&text=Pavan%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" alt="Pavan Kumar"/>
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=ML+%26+Blockchain+Researcher;Quantum+Computing+Enthusiast;EdTech+Entrepreneur;AI+System+Architect;Mathematical+Innovator" alt="Typing SVG" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pavan%20Kumar%20Dubasi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Platform%20Engineer%20%7C%20ML%20Architect%20%7C%20AI%20Researcher&descAlignY=55&descSize=18" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Platform+Engineer+%7C+SRE+%7C+DevOps;ML+Architect+%7C+AI+Researcher;Blockchain+Engineer+%7C+Smart+Contracts;3+IEEE+Publications+%7C+2+Patents+%7C+15%2B+Years" alt="Typing"/>
+</p>
+
+<div align="center">
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/im-pavankumar) | [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white)](https://dubasipavankumar.com) | [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavan.dubasi2024@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ascender1729) |
+|:---:|:---:|:---:|:---:|
+
 </div>
 
 <div align="center">
-  <a href="#research-innovations">
-    <img src="https://img.shields.io/badge/Research_Papers-3-blue?style=for-the-badge&logo=googlescholar&logoColor=white&color=0366d6" alt="Research"/>
-  </a>
-  <a href="#blockchain-projects">
-    <img src="https://img.shields.io/badge/Patents-2-blue?style=for-the-badge&logo=ethereum&logoColor=white&color=3C3C3D" alt="Blockchain"/>
-  </a>
-  <a href="#quantitative-achievements">
-    <img src="https://img.shields.io/badge/AI_Projects-7-blue?style=for-the-badge&logo=openai&logoColor=white&color=4B8BBE" alt="Quantitative"/>
-  </a>
+
+| [About](#about) | [Experience](#experience) | [Research](#research) | [Projects](#projects) | [Skills](#skills) | [Achievements](#achievements) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
 </div>
 
-<!-- HIGHLIGHTS DASHBOARD -->
+---
+
+## About
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=tokyonight&hide_border=true" width="49%" />
-  
+
+**Principal AI Consultant** at VibeTensor | Platform Engineer & ML Architect
+
+*15+ years building production systems (since 2010) • Clients across 15+ countries • 8+ industry domains*
+
 </div>
 
+<table>
+<tr>
+<td width="65%" valign="top">
 
+Embedded systems to distributed blockchain networks and production ML pipelines. Architected scalable platforms across microservices, Kubernetes clusters, and smart contract infrastructure. Building fault-tolerant systems with SRE practices, CI/CD automation, and IaC across multi-cloud environments. Specialized in AI research, data science, and software engineering.
 
-
-<details>
-  <summary><h3>🔍 Experience</h3></summary>
-  <br>
-  <table width="100%">
-    <tr>
-      <td width="70%" align="center">
-        <h3>Innodata | Senior Associate</h3>
-        <p align="left">
-          Led Enterprise AI implementation, pioneering automated visual QA systems that enhanced productivity by 300%. Established proprietary LaTeX formatting protocols achieving 98% data precision across technical documentation.
-        </p>
-        <p align="left">
-          <b>Impact:</b> Redesigned workflow architecture reducing manual operations by 80% and increasing departmental efficiency by 45%.
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <a href="https://innodata.com">
-          <img src="https://img.shields.io/badge/Enterprise_AI-Learn_More-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTBzMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTEgMC04LTMuNTg5LTgtOHMzLjU4OS04IDgtOCA4IDMuNTg5IDggOC0zLjU4OSA4LTggOHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="Innodata"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="70%" align="center">
-        <h3>NIT Patna | Research Intern</h3>
-        <p align="left">
-          Architected groundbreaking ML-blockchain healthcare fraud detection system achieving unprecedented 99.93% accuracy. Implemented cutting-edge ECIES cryptographic protocols delivering 99.9% data security.
-        </p>
-        <p align="left">
-          <b>Recognition:</b> Received Best Final Year Project Award for developing innovative healthcare system with tangible societal impact.
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <a href="https://nitp.ac.in">
-          <img src="https://img.shields.io/badge/Research-View_Project-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTBzMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTEgMC04LTMuNTg5LTgtOHMzLjU4OS04IDgtOCA4IDMuNTg5IDggOC0zLjU4OSA4LTggOHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" alt="NIT Patna"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</details>
-
-## 💡 Research Innovations
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="80" alt="Patent"/>
-      <h3>Intellectual Property</h3>
-      <table width="100%">
-        <tr>
-          <td align="center"><b>AI-Enabled Robotic Device</b></td>
-          <td align="center">UK Design Reg: 6335588</td>
-        </tr>
-        <tr>
-          <td align="center"><b>Emotion Recognition System</b></td>
-          <td align="center">Patent App: 39/2023</td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM5MzAzNjYsIm5iZiI6MTc0MzkzMDA2NiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA2VDA5MDEwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZTIzN2M3NmY3Y2NkZTI4YmVhODY3Yzc3Zjg2MDA0MjdlNTYzM2E3Mjk0NTZhMmJkZDkxYzY0ZGFiZDYyYzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ULLlWsvMMsQOfkvldx6ufXCVfg1Az_eLdm19a20-2kk" width="80" alt="Research"/>
-      <h3>Published Research</h3>
-      <table width="100%">
-        <tr>
-          <td align="center"><b>Federated Learning for Healthcare</b></td>
-          <td align="center">IEEE IC3SE 2025</td>
-        </tr>
-        <tr>
-          <td align="center"><b>Artistic Style Transfer using GANs</b></td>
-          <td align="center">IEEE IC3SE 2024</td>
-        </tr>
-        <tr>
-          <td align="center"><b>Facial Feature Extraction with ML</b></td>
-          <td align="center">IJARESM 2023</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+</td>
+<td width="35%" valign="top">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="100%"/>
+</td>
+</tr>
 </table>
 
-<!-- TECH STACK WITH INTERACTIVE VISUALS -->
-## 🔧 Technical Arsenal
+---
 
-<table width="100%">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="70" alt="AI"/>
-      <h4>ML & AI</h4>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="70" alt="Blockchain"/>
-      <h4>Blockchain</h4>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70" alt="Web Dev"/>
-      <h4>Development</h4>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/designer.gif" width="70" alt="Cloud"/>
-      <h4>Cloud & DevOps</h4>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" width="70" alt="Data"/>
-      <h4>Data Science</h4>
-    </td>
-  </tr>
+## Experience
+
+<table>
+<tr>
+<th align="left">Period</th>
+<th align="left">Role</th>
+<th align="left">Company</th>
+<th align="left">Location</th>
+</tr>
+<tr>
+<td><strong>Jun 2020 - Present</strong></td>
+<td>Principal AI Consultant</td>
+<td>VibeTensor</td>
+<td>Remote</td>
+</tr>
+<tr>
+<td><strong>Jul 2025 - Oct 2025</strong></td>
+<td>Senior Software Engineer</td>
+<td>Insight Labs AI</td>
+<td>Sydney (Remote)</td>
+</tr>
+<tr>
+<td><strong>Apr 2025 - Jun 2025</strong></td>
+<td>Agent Engineer</td>
+<td>Stealth Startup</td>
+<td>Palo Alto (Remote)</td>
+</tr>
+<tr>
+<td><strong>Feb 2025 - Apr 2025</strong></td>
+<td>AI Engineer</td>
+<td>GCRI</td>
+<td>Canada (Remote)</td>
+</tr>
+<tr>
+<td><strong>Nov 2024 - Dec 2024</strong></td>
+<td>Senior Associate L2</td>
+<td>Innodata</td>
+<td>Noida, India</td>
+</tr>
+<tr>
+<td><strong>Jul 2023 - Jun 2024</strong></td>
+<td>Research Intern</td>
+<td>NIT Patna</td>
+<td>Patna, India</td>
+</tr>
+<tr>
+<td><strong>Sep 2024 - Nov 2024</strong></td>
+<td>AI Engineer</td>
+<td>Stealth AI Startup</td>
+<td>Bengaluru, India</td>
+</tr>
+<tr>
+<td><strong>Mar 2024 - May 2024</strong></td>
+<td>Data Scientist Intern</td>
+<td>Arvo (OneArvo Ventures)</td>
+<td>New Delhi, India</td>
+</tr>
+<tr>
+<td><strong>Aug 2023 - Jan 2024</strong></td>
+<td>Software Development Engineer Intern</td>
+<td>Eut Hub Technologies</td>
+<td>Hyderabad, India</td>
+</tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h4>ML & AI</h4>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/LangChain-00A3E0?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/Anthropic-0066FF?style=flat-square&logo=ai&logoColor=white" alt="Anthropic"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>Blockchain</h4>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
-      <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-      <img src="https://img.shields.io/badge/ECIES-4A4A55?style=flat-square&logo=bitcoin&logoColor=white" alt="ECIES"/>
-      <img src="https://img.shields.io/badge/Zero_Knowledge-008080?style=flat-square&logo=zcash&logoColor=white" alt="Zero Knowledge"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>Languages</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"/>
-    </td>
-  </tr>
+
+---
+
+## Research
+
+### Publications
+
+<table>
+<tr>
+<th align="left">Title</th>
+<th align="center">Venue</th>
+<th align="center">Year</th>
+</tr>
+<tr>
+<td>Federated Learning for Privacy Preserving Healthcare</td>
+<td align="center">IEEE IC3SE</td>
+<td align="center">2025</td>
+</tr>
+<tr>
+<td>Artistic Style Transfer using GANs: Pix2Pix Implementation</td>
+<td align="center">IEEE IC3SE</td>
+<td align="center">2024</td>
+</tr>
+<tr>
+<td>Facial Feature Extraction and Emotional Analysis Using ML</td>
+<td align="center">IJARESM</td>
+<td align="center">2023</td>
+</tr>
 </table>
 
-<!-- CREATIVE PROJECT SHOWCASE -->
-## 🧠 Innovative Projects
+### Patents
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100" alt="Quantum Computing"/>
-      <h3>QuantumWaste</h3>
-      <p align="left">
-        Quantum-inspired molecular recycling simulator with 25% enhanced polymer processing efficiency. Leverages PennyLane algorithms with Three.js immersive visualization system.
-      </p>
-      <div>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/PennyLane-DD0031?style=flat-square&logo=quantum&logoColor=white" alt="PennyLane"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Healthcare"/>
-      <h3>Healthcare Fraud Detection</h3>
-      <p align="left">
-        Revolutionary ML-Blockchain hybrid achieving 99.93% diagnostic precision through novel ensemble architecture. Implemented ECC cryptography with 99.9% verified data security.
-      </p>
-      <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" alt="Urban"/>
-      <h3>Urban Soundscape Harmonizer</h3>
-      <p align="left">
-        Real-time acoustic monitoring across urban centers utilizing IoT simulation with 30% enhanced audio classification accuracy and geospatial visualization.
-      </p>
-      <div>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB"/>
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100" alt="GAN"/>
-      <h3>GAN Art Style Transfer</h3>
-      <p align="left">
-        Advanced artistic style transfer implementation utilizing Pix2Pix GAN architecture published in IEEE IC3SE 2024. Creates museum-quality transformations with 91% style fidelity.
-      </p>
-      <div>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      </div>
-    </td>
-  </tr>
+<table>
+<tr>
+<th align="left">Title</th>
+<th align="left">Registry</th>
+<th align="left">ID</th>
+<th align="left">Status</th>
+</tr>
+<tr>
+<td>AI-Enabled Robotic Device for Business Automation</td>
+<td>UK IPO</td>
+<td>6335588</td>
+<td>Granted</td>
+</tr>
+<tr>
+<td>Emotion Recognition System for Mental Health</td>
+<td>Indian Patent Office</td>
+<td>202321054346A</td>
+<td>Published</td>
+</tr>
 </table>
 
-<!-- COMMUNITY CONTRIBUTIONS -->
-## 🌟 Impact & Community Leadership
+---
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/Earth.gif?raw=true" width="80" alt="Code"/>
-      <h3>Code Your Future</h3>
-      <p align="left">
-        Mentored 15+ refugee developers, achieving 80% successful job placement rate. Created specialized curriculum with 92% learning satisfaction ratings.
-      </p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80" alt="Child"/>
-      <h3>Child Rights and You</h3>
-      <p align="left">
-        Launched technology literacy programs impacting 200+ children in underserved communities, introducing computing and digital skills foundation.
-      </p>
-    </td>
-  </tr>
+## Projects
+
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Technologies</th>
+</tr>
+<tr>
+<td><strong>Healthcare Fraud Detection</strong></td>
+<td>ML-Blockchain hybrid with ensemble architecture and ECIES encryption</td>
+<td>Python, Flask, Scikit-learn, Hyperledger, ECC</td>
+</tr>
+<tr>
+<td><strong>QuantumWaste Simulator</strong></td>
+<td>Quantum-inspired molecular recycling with 3D visualization</td>
+<td>React, Flask, PennyLane, Three.js</td>
+</tr>
+<tr>
+<td><strong>GAN Art Style Transfer</strong></td>
+<td>Pix2Pix implementation (IEEE IC3SE 2024 published)</td>
+<td>PyTorch, CUDA, React, NumPy</td>
+</tr>
+<tr>
+<td><strong>Urban Soundscape Harmonizer</strong></td>
+<td>Real-time acoustic monitoring with IoT and geospatial visualization</td>
+<td>FastAPI, InfluxDB, Leaflet, React</td>
+</tr>
+<tr>
+<td><strong>SentiTweet</strong></td>
+<td>Advanced sentiment analysis tool for large-scale text processing</td>
+<td>AWS Comprehend, TextBlob, Flask, Chart.js</td>
+</tr>
 </table>
 
-<!-- ACHIEVEMENT SHOWCASE -->
-## 🏆 Quantitative Achievements
+---
 
-<div align="center">
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-Knight_Badge_(1875)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com">
-    <img src="https://img.shields.io/badge/Codeforces-Expert_(1663)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.codingninjas.com">
-    <img src="https://img.shields.io/badge/CodeKaze-AIR_105-9400FF?style=for-the-badge&logo=codepen&logoColor=white" alt="CodeKaze"/>
-  </a>
-  <a href="https://nptel.ac.in">
-    <img src="https://img.shields.io/badge/NPTEL-Star_Award-FFD700?style=for-the-badge&logo=starship&logoColor=black" alt="NPTEL Star"/>
-  </a>
-</div>
+## Skills
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <h2>500+</h2>
-      <p>Algorithmic Problems Solved</p>
-    </td>
-    <td width="25%" align="center">
-      <h2>50+</h2>
-      <p>Competitive Coding Contests</p>
-    </td>
-    <td width="25%" align="center">
-      <h2>AIR 45</h2>
-      <p>GeeksforGeeks Job-a-thon</p>
-    </td>
-    <td width="25%" align="center">
-      <h2>8.89/10</h2>
-      <p>CGPA in Integrated MSc</p>
-    </td>
-  </tr>
+<table>
+<tr>
+<th align="left">Category</th>
+<th align="left">Technologies</th>
+</tr>
+<tr>
+<td valign="top"><strong>AI & ML Research</strong></td>
+<td>
+Python • TensorFlow • PyTorch • JAX • Keras • Hugging Face • Transformers • BERT • GPT • LangChain • LangGraph • LlamaIndex • AutoGen • CrewAI • Semantic Kernel • OpenAI • Anthropic • Groq • DeepSeek • Llama • Mistral • Scikit-learn • XGBoost • LightGBM • CatBoost • Pandas • NumPy • SciPy • Matplotlib • Seaborn • MLflow • Weights & Biases • Kubeflow • Ray • DVC • Optuna • Hyperopt
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Platform Engineering & SRE</strong></td>
+<td>
+Kubernetes • Docker • Helm • Istio • Prometheus • Grafana • Loki • Jaeger • OpenTelemetry • ArgoCD • Flux • Jenkins • GitLab CI • GitHub Actions • CircleCI • Terraform • Pulumi • Ansible • Chef • Puppet • Consul • Vault • Datadog • New Relic • PagerDuty • SLO/SLI/SLA • Chaos Engineering • Service Mesh • Load Balancing • Auto-scaling • HA Architecture
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Cloud & DevOps</strong></td>
+<td>
+AWS (EC2, S3, Lambda, ECS, EKS, RDS, DynamoDB, SageMaker, Bedrock, CloudFormation) • GCP (Compute Engine, GKE, BigQuery, Vertex AI, Cloud Functions) • Azure (AKS, Azure ML, Cosmos DB) • Multi-cloud Architecture • Infrastructure as Code • GitOps • Blue-Green Deployment • Canary Releases • Feature Flags
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Blockchain & Web3</strong></td>
+<td>
+Ethereum • Solidity • Vyper • Hyperledger Fabric • Web3.js • Ethers.js • Hardhat • Truffle • Remix IDE • Foundry • Ganache • OpenZeppelin • Chainlink • IPFS • Filecoin • The Graph • Polygon • Solana • Avalanche • Arbitrum • Optimism • Layer 2 Solutions • DeFi Protocols • Smart Contract Auditing
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data Engineering & Analytics</strong></td>
+<td>
+Apache Spark • Apache Kafka • Apache Airflow • Apache Flink • Databricks • dbt • Fivetran • Airbyte • PostgreSQL • MySQL • MongoDB • Cassandra • Redis • Elasticsearch • ClickHouse • Snowflake • BigQuery • Redshift • DuckDB • Presto • Trino • Data Warehousing • ETL/ELT • Data Modeling • Data Quality • Schema Design
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Vector Databases & RAG</strong></td>
+<td>
+Pinecone • Weaviate • Qdrant • Milvus • ChromaDB • FAISS • Annoy • Embedding Models • Retrieval-Augmented Generation • Semantic Search • Vector Similarity
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Software Development</strong></td>
+<td>
+Python • JavaScript • TypeScript • Go • Rust • C++ • Java • Ruby • R • MATLAB • Shell Scripting • React • Next.js • Vue.js • Node.js • Express • Flask • FastAPI • Django • Spring Boot • gRPC • REST • GraphQL • WebSockets • Microservices • Event-Driven Architecture • CQRS • Domain-Driven Design
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Monitoring & Observability</strong></td>
+<td>
+ELK Stack (Elasticsearch, Logstash, Kibana) • Prometheus • Grafana • Datadog • New Relic • Splunk • AppDynamics • Sentry • Distributed Tracing • Log Aggregation • Metrics Collection • Alerting • Incident Management
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Research & Scientific Computing</strong></td>
+<td>
+Experimental Design • Statistical Analysis • Hypothesis Testing • A/B Testing • Bayesian Methods • Monte Carlo Simulation • LaTeX • Jupyter • Research Methodology • Technical Writing • Peer Review • Literature Review • Data Visualization
+</td>
+</tr>
 </table>
 
-<!-- PROFESSIONAL CONNECTIONS -->
-## 🔍 Professional Engagement
+---
+
+## Achievements
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Competitive Programming**
+- LeetCode Knight Badge • Rating: **1875** • 500+ problems
+- Codeforces Expert Rank • Rating: **1663**
+- GeeksforGeeks All India Rank **45** (Job-a-thon)
+- Coding Ninjas AIR **105**, College Rank **1** (CodeKaze)
+
+</td>
+<td width="50%" valign="top">
+
+**Academic & Certifications**
+- GRE: **332/340** (Quant: 170/170, Verbal: 162/170)
+- TOEFL iBT: **101/120**
+- AWS Certified Cloud Practitioner
+- Oracle OCI AI Professional
+- Six Sigma Green Belt
+- NPTEL Star Award
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Memberships
+
+<table>
+<tr>
+<th align="left">Organization</th>
+<th align="center">Member ID</th>
+<th align="center">Status</th>
+</tr>
+<tr>
+<td>IEEE (Institute of Electrical and Electronics Engineers)</td>
+<td align="center">98915358</td>
+<td align="center">Active</td>
+</tr>
+<tr>
+<td>ACM (Association for Computing Machinery)</td>
+<td align="center">8485149</td>
+<td align="center">Active</td>
+</tr>
+<tr>
+<td>AMS (American Mathematical Society)</td>
+<td align="center">PVDBXA</td>
+<td align="center">Active</td>
+</tr>
+<tr>
+<td>IAENG (International Association of Engineers)</td>
+<td align="center">383517</td>
+<td align="center">Active</td>
+</tr>
+</table>
+
+---
+
+## Volunteering
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Community**
+
+- **Code Your Future (UK)** - Mentor for refugee developers
+- **Child Rights and You (India)** - Tech literacy programs
+- **Indian Red Cross Society** - Healthcare support
+
+</td>
+<td width="50%" valign="top">
+
+**Professional Contributions**
+
+- **Springer Nature** - Journal Reviewer
+- **IEEE DataPort** - Metadata Reviewer
+- **IEEE Young Professionals** - Coordination Lead
+- **IEEE Northern Canada** - Content Writer
+- **IEEE Learning Network** - Course Reviewer
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="25%" align="center">
-        <h3>IEEE</h3>
-        <p>Member #98915358</p>
-        <a href="https://www.ieee.org/">
-          <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Badge"/>
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <h3>ACM</h3>
-        <p>Member #8485149</p>
-        <a href="https://www.acm.org/">
-          <img src="https://img.shields.io/badge/ACM-0085CA?style=for-the-badge&logo=acm&logoColor=white" alt="ACM Badge"/>
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <h3>AMS</h3>
-        <p>Member #PVDBXA</p>
-        <a href="https://www.ams.org/">
-          <img src="https://img.shields.io/badge/AMS-4285F4?style=for-the-badge&logo=american-mathematical-society&logoColor=white" alt="AMS Badge"/>
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <h3>IAENG</h3>
-        <p>Member #383517</p>
-        <a href="https://www.iaeng.org/">
-          <img src="https://img.shields.io/badge/IAENG-D4232C?style=for-the-badge&logo=engineering&logoColor=white" alt="IAENG Badge"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <a href="https://github.com/ascender1729">
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400" alt="Data Visualization" />
-  </a>
-</div>
+### Connect With Me
 
-<div align="center">
-  <h3>Looking to collaborate on research, innovation, and entrepreneurship</h3>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Open_to-Research_Opportunities-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Research Opportunities"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Seeking-Venture_Capital-25D366?style=for-the-badge&logo=v&logoColor=white" alt="VC Connections"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Exploring-Technical_Leadership-FF6F00?style=for-the-badge&logo=opslevel&logoColor=white" alt="Technical Leadership"/>
-  </a>
-</div>
-
-<!-- CONNECT SECTION -->
-## 📬 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/ascender1729">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<table>
+<tr>
+<td align="center">
   <a href="https://linkedin.com/in/im-pavankumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
   </a>
-  <a href="https://ascender1729.github.io/pavan-kumar-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</td>
+<td align="center">
+  <a href="https://dubasipavankumar.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=About.me&logoColor=white" height="32"/>
   </a>
+</td>
+<td align="center">
   <a href="mailto:pavan.dubasi2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
   </a>
+</td>
+<td align="center">
+  <a href="https://github.com/ascender1729">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://ieee-collabratec.ieee.org">
+    <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" height="32"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://orcid.org">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" height="32"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://scholar.google.com">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="32"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ascender1729&style=for-the-badge&color=brightgreen&label=VISITORS" height="32"/>
+<img src="https://img.shields.io/github/followers/ascender1729?style=for-the-badge&color=4C9AFF&logo=github&label=FOLLOWERS" height="32"/>
+<img src="https://img.shields.io/github/stars/ascender1729?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github&label=STARS" height="32"/>
+
 </div>
 
-<!-- VISITOR COUNTER -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ascender1729/count.svg" alt="Visitor Count" />
-  <p>Thank you for visiting my profile!</p>
-</div>
+---
 
-<!-- ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,22,30&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
