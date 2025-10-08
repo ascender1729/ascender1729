@@ -40,7 +40,7 @@ Embedded systems to distributed blockchain networks and production ML pipelines.
 
 </td>
 <td width="35%" valign="top">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ascender1729&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="100%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ascender1729&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="100%"/>
 </td>
 </tr>
 </table>
